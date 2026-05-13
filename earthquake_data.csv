@@ -1,0 +1,767 @@
+time,lat,lon,depth_km,magnitude,place,
+2026-02-28T19:55:56.145Z,33.0354,76.1883,10,4.4,"44 km E of Bhadarwah, India","44 km E of Bhadarwah, India"
+2026-02-26T11:52:11.819Z,27.1964,88.0455,10,4.3,"20 km WNW of Naya Bazar, India",20 Wnw Naya Bazar India
+2026-02-05T20:50:42.049Z,27.0951,88.1766,10,4.4,"7 km WSW of Naya Bazar, India",7 Wsw Naya Bazar India
+2026-01-24T16:38:52.515Z,25.964,90.6263,10,4.2,"23 km S of Goalpara, India",23 S Goalpara India
+2025-12-26T16:10:19.195Z,23.3943,82.5615,10,4.2,"14 km N of Baikunthpur, India",14 N Baikunthpur India
+2025-12-05T18:06:37.924Z,32.8569,76.0845,18.813,4,"33 km N of Chamba, India",33 N Chamba India
+2025-12-04T00:21:31.583Z,35.2286,76.6052,10,4.2,"37 km NNW of Thang, India",37 Nnw Thang India
+2025-11-30T04:57:07.984Z,30.2518,79.4611,25.331,4.3,"19 km S of Pipalkoti, India",19 S Pipalkoti India
+2025-10-14T14:00:07.728Z,30.9115,77.3908,15.386,4.4,"10 km NE of Rajgarh, India",10 Ne Rajgarh India
+2025-09-14T02:54:00.585Z,34.37,75.2787,10,4.1,"39 km N of Pahlgam, India",39 N Pahlgam India
+2025-08-20T02:48:20.778Z,32.9099,76.2043,35,4.1,"39 km N of Chamba, India",39 N Chamba India
+2025-08-18T15:58:32.250Z,32.3157,76.638,10,4.1,"23 km NNE of Palampur, India",23 Nne Palampur India
+2025-07-27T09:13:10.017Z,33.8262,79.4981,10,4.3,"180 km ESE of Leh, India",180 Ese Leh India
+2025-07-26T04:00:07.669Z,32.9053,76.1506,10,4.2,"38 km N of Chamba, India",38 N Chamba India
+2025-07-11T14:19:44.229Z,28.9429,76.8282,10,4.1,"10 km NW of Kharkhauda, India",10 Nw Kharkhauda India
+2025-07-10T03:34:48.870Z,28.6735,76.6889,10,4.5,"8 km NNE of Jhajjar, India",8 Nne Jhajjar India
+2025-05-02T18:26:02.824Z,34.2004,78.4979,10,4.3,"84 km E of Leh, India",84 E Leh India
+2025-04-11T10:52:56.066Z,24.043,91.3615,10,4.1,"23 km N of Ranir Bazar, India",23 N Ranir Bazar India
+2025-04-01T12:08:32.333Z,35.1682,77.1309,10,4.4,"40 km NE of Thang, India",40 Ne Thang India
+2025-02-22T20:25:23.131Z,13.2754,91.4476,10,4.4,"222 km NW of Bamboo Flat, India",222 Nw Bamboo Flat India
+2025-02-20T06:02:58.563Z,25.7977,90.6738,10,4.3,"42 km S of Goalpara, India",42 S Goalpara India
+2025-02-17T00:06:52.349Z,28.5887,77.1025,10,4.2,"10 km SSE of Nangloi Jat, India",10 Sse Nangloi Jat India
+2025-02-10T15:45:17.514Z,34.0791,77.9906,10,4.4,"38 km ESE of Leh, India",38 Ese Leh India
+2025-01-22T17:12:37.363Z,33.4365,75.8244,10,4.2,"14 km NNE of Kishtwar, India",14 Nne Kishtwar India
+2025-01-21T07:04:00.391Z,25.2695,91.2966,10,4.4,"27 km S of Nongstoin, India",27 S Nongstoin India
+2025-01-20T18:39:46.595Z,34.0562,78.5487,10,4.3,"89 km E of Leh, India",89 E Leh India
+2025-01-20T11:34:22.857Z,7.3869,91.5233,10,4.3,"Nicobar Islands, India region",Nicobar Islands India Region
+2024-12-27T15:37:04.335Z,34.5055,74.1714,64.259,4.3,"36 km NNW of Baramula, India",36 Nnw Baramula India
+2024-12-18T10:53:06.485Z,34.2703,78.7475,10,4.4,"107 km E of Leh, India",107 E Leh India
+2024-12-16T14:10:33.722Z,25.6193,90.5843,10,4.3,"40 km ENE of Tura, India",40 Ene Tura India
+2024-12-07T17:08:36.129Z,30.2844,80.3295,35,4,"51 km NNW of Dharchula, India",51 Nnw Dharchula India
+2024-11-15T16:45:36.582Z,23.6308,72.0385,10,4.1,"11 km SW of Chanasma, India",11 Sw Chanasma India
+2024-11-12T08:30:35.294Z,27.4254,88.33,10,4.4,"16 km NNE of Gyalshing, India",16 Nne Gyalshing India
+2024-09-30T08:06:58.239Z,21.343,77.2016,10,4.4,"22 km NNW of Anjangaon, India",22 Nnw Anjangaon India
+2024-09-23T19:03:59.562Z,20.7407,89.4934,10,4.2,"173 km SSE of Gosaba, India",173 Sse Gosaba India
+2024-08-21T16:52:25.115Z,34.2324,74.1045,10,3.6,"17 km NNE of Uri, India",17 Nne Uri India
+2024-08-20T01:22:26.354Z,34.1873,74.2881,13.738,4.5,"5 km WSW of Baramula, India",5 Wsw Baramula India
+2024-08-09T04:23:35.025Z,31.6473,76.9775,10,3.6,"7 km WSW of Pandoh, India",7 Wsw Pandoh India
+2024-08-09T01:27:10.980Z,27.1586,88.1937,35,4.5,"5 km NW of Naya Bazar, India",5 Nw Naya Bazar India
+2024-07-20T12:04:59.754Z,33.456,76.6373,43.578,4.1,"23 km W of Padam, India",23 W Padam India
+2024-07-12T06:56:22.699Z,34.1455,74.3501,13.68,4.4,"7 km S of Baramula, India",7 S Baramula India
+2024-07-10T01:44:52.060Z,19.4402,77.2915,10,4.4,"18 km NE of Basmat, India",18 Ne Basmat India
+2024-06-08T18:17:19.165Z,27.8429,75.3219,10.714,4,"4 km ESE of Nawalgarh, India",4 Ese Nawalgarh India
+2024-05-31T02:20:09.465Z,25.7318,91.0047,41.021,4.1,"35 km NW of Nongstoin, India",35 Nw Nongstoin India
+2024-04-18T15:22:37.399Z,33.1489,76.8257,45.414,4.3,"35 km S of Padam, India",35 S Padam India
+2024-04-08T01:20:12.604Z,10.7532,91.5769,10,4.2,"162 km SW of Bamboo Flat, India",162 Sw Bamboo Flat India
+2024-04-06T09:23:21.002Z,33.1643,76.8223,10,4.4,"34 km S of Padam, India",34 S Padam India
+2024-04-05T11:50:44.688Z,33.2454,76.9224,28.17,4.2,"24 km S of Padam, India",24 S Padam India
+2024-03-12T08:57:52.678Z,25.7414,90.2866,10,4.4,"26 km NNE of Tura, India",26 Nne Tura India
+2024-03-04T03:50:17.216Z,10.6366,91.3969,10,4,"186 km SW of Bamboo Flat, India",186 Sw Bamboo Flat India
+2024-02-22T17:05:55.410Z,33.1787,76.8103,10,4.3,"32 km SSW of Padam, India",32 Ssw Padam India
+2024-02-20T01:05:59.441Z,33.1565,76.8759,10,4.3,"34 km S of Padam, India",34 S Padam India
+2024-01-16T03:23:53.611Z,33.1245,76.7306,10,4.1,"40 km SSW of Padam, India",40 Ssw Padam India
+2024-01-03T19:08:16.618Z,33.2551,76.7872,17.945,4.5,"25 km SSW of Padam, India",25 Ssw Padam India
+2023-12-18T10:27:11.437Z,33.1492,76.6507,10,4.3,"41 km SSW of Padam, India",41 Ssw Padam India
+2023-12-13T16:22:04.474Z,8.2884,91.1737,10,4.2,"Nicobar Islands, India region",Nicobar Islands India Region
+2023-12-04T19:04:15.283Z,27.8117,87.8388,70.467,4.4,"71 km NW of Gyalshing, India",71 Nw Gyalshing India
+2023-11-16T04:04:18.591Z,33.0154,76.2091,16.68,4.2,"46 km E of Bhadarwah, India",46 E Bhadarwah India
+2023-10-14T21:53:08.277Z,31.8115,79.3974,10,4.3,"140 km N of Joshimath, India",140 N Joshimath India
+2023-10-08T13:37:04.576Z,31.7268,79.3465,10,4.5,"131 km N of Joshimath, India",131 N Joshimath India
+2023-08-05T20:04:11.934Z,30.2183,80.7013,10,4.3,western Xizang-India border region,Western Xizang-India Border Region
+2023-07-20T22:39:44.949Z,26.8685,75.8906,10,4.3,"11 km ESE of Jaipur, India",11 Ese Jaipur India
+2023-07-17T16:37:23.404Z,33.1046,76.0979,10,4.2,"38 km ENE of Bhadarwah, India",38 Ene Bhadarwah India
+2023-07-16T14:23:32.031Z,25.722,91.3559,10,4.3,"24 km NNE of Nongstoin, India",24 Nne Nongstoin India
+2023-07-10T00:13:43.298Z,33.2711,75.8514,25.38,4.2,"9 km ESE of Kishtwar, India",9 Ese Kishtwar India
+2023-07-07T05:20:53.879Z,31.536,78.3517,10,4.3,"53 km E of Sarahan, India",53 E Sarahan India
+2023-06-17T22:20:24.254Z,33.0208,75.9599,10,4.3,"23 km ENE of Bhadarwah, India",23 Ene Bhadarwah India
+2023-06-17T16:25:33.967Z,33.2377,75.9002,10,4.3,"14 km SE of Kishtwar, India",14 Se Kishtwar India
+2023-05-08T08:58:12.854Z,33.9253,75.0264,10,3.8,"1 km ENE of Awantipur, India",1 Ene Awantipur India
+2023-05-04T04:20:30.480Z,30.5173,79.0377,27.66,4.2,"Uttaranchal, India",Uttaranchal India
+2023-04-12T00:05:08.100Z,26.0018,87.3828,10,4,Nepal-India border region,Nepal-India Border Region
+2023-04-03T08:22:04.572Z,25.8896,90.446,10,4.4,"20 km SE of Lakhipur, India",20 Se Lakhipur India
+2023-02-26T04:19:53.486Z,25.6554,90.4081,10,4.3,"25 km NE of Tura, India",25 Ne Tura India
+2023-02-12T22:45:05.505Z,27.986,88.0003,60.903,4,"73 km NW of Mangan, India",73 Nw Mangan India
+2023-01-26T01:59:58.723Z,25.7328,90.4362,36.679,4,"33 km NE of Tura, India",33 Ne Tura India
+2022-12-31T19:49:41.613Z,28.7191,76.6286,10,4.1,"Haryana, India",Haryana India
+2022-11-16T16:02:53.870Z,31.8986,76.9792,10,4.4,"13 km WSW of Kulu, India",13 Wsw Kulu India
+2022-11-09T00:57:14.321Z,29.9803,80.2903,22.974,4.4,"26 km WNW of Dh?rchula, India",26 Wnw Dharchula India
+2022-11-06T16:28:40.298Z,27.9764,88.2153,10,4,"59 km NNW of Mangan, India",59 Nnw Mangan India
+2022-11-01T03:13:53.303Z,23.0012,80.1303,10,4.3,"13 km SE of Barela, India",13 Se Barela India
+2022-10-18T12:09:45.297Z,32.3641,78.6637,10,4.5,"125 km NE of Sar?han, India",125 Ne Sarahan India
+2022-10-03T15:44:49.369Z,8.3607,91.1987,10,4.1,"Nicobar Islands, India region",Nicobar Islands India Region
+2022-09-19T19:37:15.598Z,34.6823,80.1396,10,4.3,"241 km ENE of Leh, India",241 Ene Leh India
+2022-09-17T02:15:17.988Z,7.7191,91.4602,10,4.5,"Nicobar Islands, India region",Nicobar Islands India Region
+2022-08-24T17:34:21.884Z,33.1509,75.7219,10,4.2,"16 km E of Doda, India",16 E Doda India
+2022-08-22T20:50:28.977Z,33.2367,75.8439,10,4,"11 km SE of Kishtw?r, India",11 Se Kishtwar India
+2022-07-26T03:12:07.119Z,34.644,80.2097,10,4.2,"247 km ENE of Leh, India",247 Ene Leh India
+2022-07-24T07:06:54.744Z,30.7594,78.396,20.888,4,"5 km NW of Uttark?shi, India",5 Nw Uttarkashi India
+2022-07-09T00:52:02.519Z,16.9254,75.7188,10,4.5,"Karnataka, India",Karnataka India
+2022-06-27T22:49:50.675Z,28.8231,76.6692,10,3.7,"11 km SE of Rohtak, India",11 Se Rohtak India
+2022-06-21T01:45:48.714Z,10.576,91.58,10,4.2,"175 km SW of Port Blair, India",175 Sw Port Blair India
+2022-04-09T11:22:33.744Z,30.9544,78.2383,10,4.3,"16 km N of Barkot, India",16 N Barkot India
+2022-02-25T07:29:03.263Z,32.3654,76.3939,10,3.6,"17 km NNE of Dharamsala, India",17 Nne Dharamsala India
+2022-02-23T04:28:24.354Z,31.4596,77.8709,10,4.2,"9 km SE of Sar?han, India",9 Se Sarahan India
+2022-02-06T05:57:32.293Z,31.5122,78.0555,10,4.2,"24 km E of Sar?han, India",24 E Sarahan India
+2022-01-24T19:38:59.306Z,29.9803,80.3548,10,4,"21 km NW of Dh?rchula, India",21 Nw Dharchula India
+2022-01-23T15:21:50.341Z,10.6973,91.5003,10,4.5,"173 km SW of Bamboo Flat, India",173 Sw Bamboo Flat India
+2022-01-22T08:46:23.113Z,17.562,84.9267,10,4.2,"132 km SE of Narasannapeta, India",132 Se Narasannapeta India
+2022-01-21T21:23:38.467Z,33.2225,75.9072,10,4.1,"16 km SE of Kishtw?r, India",16 Se Kishtwar India
+2022-01-06T18:29:13.484Z,27.8305,82.8074,10,4.4,"38 km NNE of Pachperwa, India",38 Nne Pachperwa India
+2022-01-04T17:15:52.331Z,33.0339,76.074,40.06,4.3,Kashmir-India border region,Kashmir-India Border Region
+2021-12-29T19:08:19.232Z,29.9056,80.3449,10,4.5,"18 km WNW of Dh?rchula, India",18 Wnw Dharchula India
+2021-11-23T16:31:58.690Z,31.3163,77.1736,10,4.3,"9 km NNE of Seoni, India",9 Nne Seoni India
+2021-11-20T07:42:09.082Z,25.9374,91.4838,10,4.2,"21 km SSW of Pal?sb?ri, India",21 Ssw Palasbari India
+2021-11-19T20:56:16.978Z,25.1721,72.5323,10,4.4,"20 km SSW of Jalor, India",20 Ssw Jalor India
+2021-10-30T16:29:09.837Z,33.2438,76.7582,10,4.2,"27 km SSW of Padam, India",27 Ssw Padam India
+2021-10-11T16:24:38.865Z,17.1543,77.0051,10,4.3,"7 km ENE of Sh?h?b?d, India",7 Ene Shahabad India
+2021-09-13T03:46:47.551Z,33.7409,76.4233,10,4.3,"52 km NW of Padam, India",52 Nw Padam India
+2021-09-04T12:53:31.787Z,10.1164,91.5131,10,4.4,"218 km SW of Port Blair, India",218 Sw Port Blair India
+2021-09-04T12:10:24.174Z,10.1169,91.4548,10,4.2,"222 km SW of Port Blair, India",222 Sw Port Blair India
+2021-08-31T16:05:14.317Z,10.9134,91.5518,10,4.3,"154 km SW of Bamboo Flat, India",154 Sw Bamboo Flat India
+2021-08-10T08:12:46.310Z,30.2767,78.1005,10,3.6,"3 km SSE of R?ipur, India",3 Sse Raipur India
+2021-07-25T15:09:21.630Z,27.3429,88.3092,10,4.5,"7 km NE of Gyalshing, India",7 Ne Gyalshing India
+2021-07-21T04:01:45.956Z,34.0777,78.4395,10,4.3,"79 km E of Leh, India",79 E Leh India
+2021-07-09T07:46:23.848Z,25.9749,90.3995,10,4.3,"11 km ESE of Lakhipur, India",11 Ese Lakhipur India
+2021-07-05T17:06:55.336Z,28.9016,76.839,10,3.9,"7 km WNW of Kharkhauda, India",7 Wnw Kharkhauda India
+2021-06-29T19:24:35.052Z,34.6873,77.9908,10,3.7,"68 km NNE of Leh, India",68 Nne Leh India
+2021-06-12T18:31:28.860Z,21.0204,85.0848,10,3.9,"17 km WNW of T?lcher, India",17 Wnw Talcher India
+2021-05-27T13:00:46.741Z,10.7126,91.5096,10,4.4,"171 km SW of Bamboo Flat, India",171 Sw Bamboo Flat India
+2021-05-23T19:01:39.963Z,30.8764,79.2707,10,4.5,"45 km NW of Josh?math, India",45 Nw Joshamath India
+2021-05-16T22:07:22.008Z,20.6607,71.4793,10,4.1,"41 km S of R?jula, India",41 S Rajula India
+2021-04-14T16:45:09.044Z,10.8839,91.5252,10,4.1,"158 km SW of Bamboo Flat, India",158 Sw Bamboo Flat India
+2021-04-06T01:36:55.618Z,26.8176,88.7828,10,3.9,"15 km E of Odl?b?ri, India",15 E Odlabari India
+2021-02-09T01:50:07.207Z,28.0331,87.8568,35,4.3,"87 km NW of Mangan, India",87 Nw Mangan India
+2021-02-03T14:29:49.946Z,34.26,78.2819,10,4.5,"65 km E of Leh, India",65 E Leh India
+2021-01-11T13:59:12.570Z,33.4274,75.7158,10,4.1,"13 km NNW of Kishtw?r, India",13 Nnw Kishtwar India
+2021-01-09T14:51:50.407Z,32.521,76.6552,22.64,4.5,"35 km W of Kyelang, India",35 W Kyelang India
+2020-12-17T18:16:48.782Z,28.5188,77.2852,10,3.8,"5 km ENE of Deoli, India",5 Ene Deoli India
+2020-12-10T16:56:47.765Z,26.1291,90.5453,10,4.3,"9 km WSW of Go?lp?ra, India",9 Wsw Goalpara India
+2020-12-09T21:57:34.387Z,33.866,74.9266,10,4.2,"2 km ESE of Pulwama, India",2 Ese Pulwama India
+2020-11-21T20:15:03.902Z,22.1407,79.6342,10,4.3,"10 km NE of Seoni, India",10 Ne Seoni India
+2020-11-07T10:09:22.561Z,21.5017,73.219,10,3.9,"27 km E of Kosamba, India",27 E Kosamba India
+2020-11-02T19:43:17.105Z,25.7773,91.1728,10,4.5,"30 km NNW of Nongstoin, India",30 Nnw Nongstoin India
+2020-10-31T16:59:40.590Z,34.1948,78.1585,10,4.5,"53 km E of Leh, India",53 E Leh India
+2020-10-07T16:18:08.290Z,32.3518,80.5666,10,4.4,"220 km NNE of Josh?math, India",220 Nne Joshamath India
+2020-10-03T15:36:17.754Z,26.2024,91.3108,44.3,4.2,"21 km WSW of H?jo, India",21 Wsw Hajo India
+2020-09-25T18:14:35.455Z,34.0161,78.1669,10,3.8,"56 km ESE of Leh, India",56 Ese Leh India
+2020-09-22T16:10:29.177Z,34.0837,74.7947,10,4.4,"1 km WSW of Srinagar, India",1 Wsw Srinagar India
+2020-09-21T19:58:34.584Z,26.2803,91.3167,39.62,4.4,"21 km W of H?jo, India",21 W Hajo India
+2020-08-26T02:24:03.662Z,23.965,88.4834,10,4,"13 km W of Kar?mpur, India",13 W Karampur India
+2020-07-29T20:54:26.858Z,28.4107,88.3259,10,4.1,"101 km N of Mangan, India",101 N Mangan India
+2020-07-16T02:10:29.094Z,22.2558,70.9928,10,4.1,"20 km E of R?jkot, India",20 E Rajkot India
+2020-07-03T13:30:49.114Z,28.142,76.5366,30.38,4.3,"9 km NNW of B?wal, India",9 Nnw Bawal India
+2020-06-30T03:26:58.130Z,33.195,75.926,46.75,4.2,"19 km SE of Kishtw?r, India",19 Se Kishtwar India
+2020-06-15T07:27:35.084Z,22.9861,70.2272,10,3.8,"5 km SSE of K?ndla, India",5 Sse Kandla India
+2020-05-29T15:38:41.657Z,29.1724,77.0219,10,4.2,"Uttar Pradesh, India",Uttar Pradesh India
+2020-05-28T08:05:58.316Z,32.5421,79.491,10,4.4,"196 km NE of Sar?han, India",196 Ne Sarahan India
+2020-05-10T08:15:27.178Z,28.7268,77.3516,10,3.7,"6 km ESE of Loni, India",6 Ese Loni India
+2020-05-09T10:06:46.736Z,22.1166,68.963,10,4.1,"13 km S of Dw?rka, India",13 S Dwarka India
+2020-04-12T12:15:02.191Z,28.8336,77.3589,10,3.8,"Haryana-Delhi-Uttar Pradesh region, India",Haryana-Delhi-Uttar Pradesh Region India
+2020-04-08T05:53:57.175Z,23.4203,86.989,10,4,"22 km NNW of B?nkura, India",22 Nnw Bankura India
+2020-03-29T18:17:45.513Z,32.9731,76.4202,10,4.3,"53 km NNE of Chamba, India",53 Nne Chamba India
+2020-03-27T11:46:58.989Z,32.697,76.144,10,4.5,"15 km N of Chamba, India",15 N Chamba India
+2020-03-11T14:19:31.898Z,32.568,78.4627,10,4,"125 km ENE of Man?li, India",125 Ene Manali India
+2020-02-28T11:07:11.020Z,32.9646,76.3114,10,4.2,"48 km NNE of Chamba, India",48 Nne Chamba India
+2020-01-25T21:07:34.332Z,16.6775,79.8979,10,4.5,"32 km SW of Jaggayyapeta, India",32 Sw Jaggayyapeta India
+2019-12-19T22:16:20.980Z,34.6953,79.7421,10,4.5,"206 km ENE of Leh, India",206 Ene Leh India
+2019-12-13T23:52:40.214Z,20.0829,73.1729,10,4.3,"19 km NNW of Jawh?r, India",19 Nnw Jawhar India
+2019-11-27T00:18:32.422Z,28.1658,87.8728,64.65,4.4,"96 km NW of Mangan, India",96 Nw Mangan India
+2019-11-21T14:11:09.692Z,26.145,91.1372,48.16,4.3,"23 km SSE of Barpeta, India",23 Sse Barpeta India
+2019-11-12T02:00:26.426Z,30.0659,80.2927,10,4.3,"32 km NW of Dh?rchula, India",32 Nw Dharchula India
+2019-10-13T05:06:33.866Z,28.1573,73.1834,14.98,4,"20 km NW of B?kaner, India",20 Nw Bakaner India
+2019-07-29T03:33:52.069Z,32.8856,76.7183,10,4.4,"45 km NW of Kyelang, India",45 Nw Kyelang India
+2019-07-28T21:25:03.314Z,22.5443,86.4405,10,4.5,"4 km NNW of Mush?bani, India",4 Nnw Mushabani India
+2019-07-24T19:33:09.919Z,19.578,72.508,10,4.1,"25 km WSW of Shirgaon, India",25 Wsw Shirgaon India
+2019-07-24T19:17:11.840Z,32.7286,76.3907,10,4.2,"31 km NE of Chamba, India",31 Ne Chamba India
+2019-06-20T02:17:06.749Z,17.1576,73.7769,10,4.3,"26 km S of Koynanagar, India",26 S Koynanagar India
+2019-06-05T17:01:12.400Z,24.537,72.7357,10,4,"6 km SSE of ?bu, India",6 Sse Abu India
+2019-05-24T20:44:35.249Z,10.6433,91.4323,10,4.2,"182 km SW of Bamboo Flat, India",182 Sw Bamboo Flat India
+2019-03-21T14:30:52.863Z,25.6452,90.9083,10,4.4,"38 km WNW of Nongstoin, India",38 Wnw Nongstoin India
+2019-03-16T23:41:28.160Z,27.4854,76.867,10,4,"13 km W of Govindgarh, India",13 W Govindgarh India
+2019-03-01T05:44:26.440Z,20.2344,72.8943,10,4,"11 km WSW of Silvassa, India",11 Wsw Silvassa India
+2019-02-20T02:29:34.520Z,29.3387,77.3166,10,4,"4 km ENE of K?ndhla, India",4 Ene Kandhla India
+2019-02-17T22:53:30.280Z,33.4367,76.7294,23.88,4.5,"14 km WSW of Padam, India",14 Wsw Padam India
+2019-02-05T21:11:27.890Z,35.0109,74.2087,10,4,"76 km NNW of Bandipura, India",76 Nnw Bandipura India
+2019-01-06T23:10:42.200Z,34.2031,78.0505,10,4.3,"43 km E of Leh, India",43 E Leh India
+2018-10-29T16:02:48.200Z,34.0313,77.9427,10,4.1,"36 km ESE of Leh, India",36 Ese Leh India
+2018-10-29T14:56:47.190Z,34.3492,78.1903,10,4.5,"59 km ENE of Leh, India",59 Ene Leh India
+2018-09-25T03:47:30.020Z,26.0547,90.8859,10,4.4,"29 km ESE of Go?lp?ra, India",29 Ese Goalpara India
+2018-09-11T12:05:41.830Z,33.6364,76.2087,35,4.4,"54 km NE of Kishtw?r, India",54 Ne Kishtwar India
+2018-09-10T00:58:05.880Z,28.8193,76.8395,10,3.6,"7 km NE of Kheri S?mpla, India",7 Ne Kheri Sampla India
+2018-08-28T13:03:27.670Z,22.6926,87.7938,10,4.5,"6 km ENE of Gh?t?l, India",6 Ene Ghatal India
+2018-08-24T11:29:32.600Z,10.9995,91.5782,10,4.4,"146 km WSW of Bamboo Flat, India",146 Wsw Bamboo Flat India
+2018-08-17T19:04:19.520Z,25.6357,90.9299,10,3.8,"36 km WNW of Nongstoin, India",36 Wnw Nongstoin India
+2018-07-21T19:37:46.500Z,34.3623,73.9968,43.84,4.2,"31 km N of Uri, India",31 N Uri India
+2018-07-21T09:19:36.900Z,34.2911,74.0789,40.06,4.5,"23 km N of Uri, India",23 N Uri India
+2018-07-08T04:13:25.170Z,27.7857,76.207,10,3.6,"9 km N of Kotputli, India",9 N Kotputli India
+2018-07-01T10:07:02.900Z,29.0928,76.9296,10,4.5,"13 km NW of Son?pat, India",13 Nw Sonapat India
+2018-06-17T15:07:37.130Z,27.4201,88.4739,49.76,4.4,"11 km SSW of Mangan, India",11 Ssw Mangan India
+2018-06-16T22:06:35.230Z,31.7248,77.6864,10,3.2,"25 km NNW of Sar?han, India",25 Nnw Sarahan India
+2018-06-14T10:15:49.470Z,32.5602,76.3615,10,4.5,"22 km E of Chamba, India",22 E Chamba India
+2018-06-14T00:42:07.560Z,30.8612,78.2815,10,4.4,"9 km NE of Barkot, India",9 Ne Barkot India
+2018-06-07T06:51:17.700Z,34.2276,78.0514,10,4.4,"43 km E of Leh, India",43 E Leh India
+2018-06-06T17:41:24.020Z,30.7553,78.9228,10,4.5,"45 km E of Uttark?shi, India",45 E Uttarkashi India
+2018-05-21T10:51:02.750Z,31.7412,78.4799,10,4.5,"69 km ENE of Sar?han, India",69 Ene Sarahan India
+2018-05-06T07:46:55.300Z,32.8791,76.1241,41.61,4.1,"35 km N of Chamba, India",35 N Chamba India
+2018-04-19T22:52:37.900Z,31.2589,80.4048,29.83,4,"111 km NE of Josh?math, India",111 Ne Joshamath India
+2018-03-28T22:33:05.980Z,23.1716,70.4448,10,4.2,"17 km SE of Bhach?u, India",17 Se Bhachau India
+2018-03-21T22:58:23.210Z,26.3137,89.9018,10,4,"15 km SSW of Goshaingaon, India",15 Ssw Goshaingaon India
+2018-03-15T14:53:24.170Z,33.0311,76.0989,39.8,4.5,"36 km E of Bhadarw?h, India",36 E Bhadarwah India
+2018-01-20T01:14:27.260Z,26.1323,89.8746,11.47,4.5,"6 km ENE of Golakganj, India",6 Ene Golakganj India
+2017-12-25T23:51:21.620Z,34.2442,73.8406,10,4.2,"26 km NW of Uri, India",26 Nw Uri India
+2017-12-02T23:43:44.930Z,27.2856,88.0806,10,4.2,"17 km W of Gyalshing, India",17 W Gyalshing India
+2017-10-27T02:37:45.580Z,31.9508,77.4341,14.96,4.1,"30 km E of Kulu, India",30 E Kulu India
+2017-09-07T14:32:03.630Z,25.275,90.2279,36.67,4.1,"26 km S of Tura, India",26 S Tura India
+2017-08-19T16:52:26.120Z,16.3657,73.3863,10,4.1,"34 km NNW of M?lvan, India",34 Nnw Malvan India
+2017-08-16T03:26:53.080Z,32.8724,76.2437,44.78,4.4,"36 km NNE of Chamba, India",36 Nne Chamba India
+2017-06-03T18:14:50.550Z,16.6688,73.576,15.46,4.3,"6 km ENE of R?j?pur, India",6 Ene Rajapur India
+2017-05-29T13:53:29.160Z,33.2999,75.9276,35.9,4.5,"15 km E of Kishtw?r, India",15 E Kishtwar India
+2017-05-20T05:48:44.460Z,32.8696,76.2986,35.36,4.2,"38 km NNE of Chamba, India",38 Nne Chamba India
+2017-05-19T00:02:33.540Z,33.0204,76.1431,42.99,4.5,"40 km E of Bhadarw?h, India",40 E Bhadarwah India
+2017-05-16T22:13:19.060Z,27.3266,88.1714,10,4.2,"9 km WNW of Gyalshing, India",9 Wnw Gyalshing India
+2017-04-25T16:14:55.930Z,25.6263,90.8833,31.19,4.3,"40 km WNW of Nongstoin, India",40 Wnw Nongstoin India
+2017-03-26T21:42:11.940Z,27.1419,88.5534,24.39,4.5,"4 km SSE of Rangpo, India",4 Sse Rangpo India
+2017-02-12T04:05:33.570Z,25.548,91.1035,36.94,4.4,"16 km WNW of Nongstoin, India",16 Wnw Nongstoin India
+2016-11-16T22:59:24.610Z,28.0012,76.7017,10,4.4,"14 km SE of B?wal, India",14 Se Bawal India
+2016-10-04T14:19:21.580Z,33.7459,75.6917,35,4.3,"45 km SE of Pahlg?m, India",45 Se Pahlgam India
+2016-09-10T15:27:23.480Z,28.7684,76.5733,10,4.1,"7 km N of Beri Kh?s, India",7 N Beri Khas India
+2016-08-27T03:38:08.270Z,31.2127,77.7742,10,4.1,"2 km ENE of Rohru, India",2 Ene Rohru India
+2016-08-27T01:35:05.900Z,31.4834,77.6806,10,4.5,"6 km NE of R?mpur, India",6 Ne Rampur India
+2016-08-01T13:38:32.850Z,31.3148,76.9876,35.06,4.5,"15 km WNW of Seoni, India",15 Wnw Seoni India
+2016-07-17T03:54:57.560Z,21.4276,71.5526,10,4.1,"12 km SSW of Gariadhar, India",12 Ssw Gariadhar India
+2016-05-24T10:17:59.320Z,33.0759,76.0936,35,4.1,"36 km ENE of Bhadarw?h, India",36 Ene Bhadarwah India
+2016-05-16T18:03:47.500Z,25.9006,90.2255,35.12,4.3,"16 km SSW of Lakhipur, India",16 Ssw Lakhipur India
+2016-05-09T16:00:22.140Z,11.2676,91.4012,10,4.3,"151 km WSW of Bamboo Flat, India",151 Wsw Bamboo Flat India
+2016-03-28T18:40:06.780Z,25.9519,90.6891,10,4,"25 km SSE of Go?lp?ra, India",25 Sse Goalpara India
+2016-03-17T16:47:01.810Z,34.044,78.0686,31.9,4.1,"46 km ESE of Leh, India",46 Ese Leh India
+2016-03-12T16:15:12.250Z,26.7746,89.092,14.88,3.9,"9 km NW of Birpara, India",9 Nw Birpara India
+2016-02-09T15:13:53.700Z,32.9944,76.0777,40.2,4.2,"33 km E of Bhadarw?h, India",33 E Bhadarwah India
+2016-02-04T07:10:36.880Z,32.8455,76.043,58.67,4.3,"33 km NNW of Chamba, India",33 Nnw Chamba India
+2015-12-15T02:35:15.500Z,23.8301,86.5783,14.79,4.5,"6 km E of Gobindpur, India",6 E Gobindpur India
+2015-12-05T23:13:32.200Z,18.4361,71.1922,10,4.3,"179 km W of Al?b?g, India",179 W Alabag India
+2015-11-29T02:47:52.820Z,31.373,78.7325,35,4.1,"76 km NNE of Uttark?shi, India",76 Nne Uttarkashi India
+2015-10-10T01:48:45.570Z,27.2548,88.8009,48.22,4.3,"20 km ESE of Gangtok, India",20 Ese Gangtok India
+2015-10-08T01:04:21.950Z,31.5958,76.9677,36.04,4.2,"8 km NE of Sundarnagar, India",8 Ne Sundarnagar India
+2015-09-27T18:02:20.180Z,7.4738,91.5204,29.74,4.3,"Nicobar Islands, India region",Nicobar Islands India Region
+2015-09-11T23:56:59.380Z,26.0549,89.5568,18.5,4,"13 km SE of D?nh?ta, India",13 Se Danhata India
+2015-09-05T22:19:23.340Z,7.3479,91.1856,10,4.2,"Nicobar Islands, India region",Nicobar Islands India Region
+2015-09-03T17:57:47.570Z,27.3767,75.4937,14.2,4,"7 km W of R?ngas, India",7 W Rangas India
+2015-08-20T19:21:14.810Z,26.0142,90.2598,42.95,3.9,"4 km WSW of Lakhipur, India",4 Wsw Lakhipur India
+2015-08-15T05:42:20.300Z,27.3759,87.8566,10,4.4,"40 km WNW of Gyalshing, India",40 Wnw Gyalshing India
+2015-08-05T19:15:56.760Z,30.3652,80.3368,10,4.1,"60 km NNW of Dh?rchula, India",60 Nnw Dharchula India
+2015-07-18T23:48:08.680Z,30.4476,79.1538,10,4.4,"24 km NE of Rudrapray?g, India",24 Ne Rudraprayag India
+2015-07-10T12:53:23.250Z,26.6628,90.5991,19.67,4.3,"20 km N of Bongaigaon, India",20 N Bongaigaon India
+2015-07-09T03:30:01.840Z,34.6941,74.1123,63.07,4.2,"55 km NW of Sopur, India",55 Nw Sopur India
+2015-06-30T13:15:57.200Z,26.0436,90.7596,42.34,4,"19 km SE of Go?lp?ra, India",19 Se Goalpara India
+2015-05-27T07:30:41.910Z,27.3256,84.6635,10,4,"38 km ENE of R?mnagar, India",38 Ene Ramnagar India
+2015-05-18T16:46:36.840Z,34.1771,73.7435,32.32,4.3,"30 km WNW of Uri, India",30 Wnw Uri India
+2015-03-26T10:44:02.100Z,7.4635,91.5815,30.05,4.3,"Nicobar Islands, India region",Nicobar Islands India Region
+2015-02-26T18:52:32.790Z,9.6585,90.326,29.47,4.4,"Nicobar Islands, India region",Nicobar Islands India Region
+2015-02-14T00:44:36.430Z,31.3449,80.3877,32.72,4.2,"117 km NE of Josh?math, India",117 Ne Joshamath India
+2015-02-13T22:21:52.220Z,31.215,80.3855,29.91,4.1,"107 km NE of Josh?math, India",107 Ne Joshamath India
+2014-12-06T04:27:42.580Z,30.6685,80.0267,10,4.1,western Xizang-India border region,Western Xizang-India Border Region
+2014-11-21T22:45:36.370Z,34.4008,79.0039,36.66,4.3,"133 km E of Leh, India",133 E Leh India
+2014-11-18T15:55:32.580Z,32.9378,76.059,60.82,4.3,"32 km E of Bhadarw?h, India",32 E Bhadarwah India
+2014-10-11T08:13:37.870Z,34.3887,79.2005,35,4.5,"150 km E of Leh, India",150 E Leh India
+2014-10-10T21:49:37.690Z,34.3271,79.1521,45.27,4,"145 km E of Leh, India",145 E Leh India
+2014-09-12T07:56:41.570Z,25.6524,89.9947,15,4.1,"18 km NE of Mank?char, India",18 Ne Mankachar India
+2014-08-24T08:29:31.740Z,30.0384,79.9591,10,4.4,"28 km NE of B?geshwar, India",28 Ne Bageshwar India
+2014-08-17T20:34:32.440Z,23.6717,91.4071,38,4.1,"7 km NE of Barjala, India",7 Ne Barjala India
+2014-07-25T04:56:16.680Z,33.1264,76.3749,17.03,4,"60 km ESE of Kishtw?r, India",60 Ese Kishtwar India
+2014-07-22T23:35:15.370Z,26.2364,89.5355,14.91,4,"13 km SE of Koch Bih?r, India",13 Se Koch Bihar India
+2014-07-06T14:48:13.060Z,30.3227,80.3415,43.73,4.1,"55 km NNW of Dh?rchula, India",55 Nnw Dharchula India
+2014-07-03T11:35:00.300Z,30.2451,80.3384,35,4,western Xizang-India border region,Western Xizang-India Border Region
+2014-06-17T17:31:10.950Z,32.3316,76.4467,33.51,4.2,"17 km NE of Dharamsala, India",17 Ne Dharamsala India
+2014-06-09T17:40:23.230Z,24.1878,91.5293,31.79,4.1,"13 km NNW of Khowai, India",13 Nnw Khowai India
+2014-05-30T06:37:48.980Z,26.5567,90.227,10,4,"17 km NNW of Kokrajhar, India",17 Nnw Kokrajhar India
+2014-04-19T08:29:20.330Z,34.1021,76.2379,34,4.1,"51 km SSE of Kargil, India",51 Sse Kargil India
+2014-03-08T13:09:02.340Z,34.452,80.1638,36.09,4.4,"239 km E of Leh, India",239 E Leh India
+2014-02-28T13:11:30.330Z,23.7432,91.3541,37.8,3.9,"10 km S of R?n?r B?z?r, India",10 S Ranar Bazar India
+2014-01-22T05:22:01.180Z,34.2849,79.7826,43.74,4.2,"203 km E of Leh, India",203 E Leh India
+2013-12-06T10:09:01.050Z,32.8918,78.6622,41.12,4.3,"156 km ENE of Man?li, India",156 Ene Manali India
+2013-11-15T22:21:08.700Z,34.5371,77.7468,30.76,4.2,"43 km NNE of Leh, India",43 Nne Leh India
+2013-11-06T14:53:14.040Z,31.726,76.1301,41.11,4.4,"9 km NE of Gagret, India",9 Ne Gagret India
+2013-10-26T00:05:03.550Z,33.1049,75.9359,41.6,4.5,"24 km NE of Bhadarw?h, India",24 Ne Bhadarwah India
+2013-09-05T18:11:28.600Z,33.2221,75.404,10.24,4.5,"14 km NE of Batoti, India",14 Ne Batoti India
+2013-09-03T08:06:19.150Z,33.2574,75.8656,10,4.2,"11 km SE of Kishtw?r, India",11 Se Kishtwar India
+2013-08-29T10:13:24.110Z,31.4785,76.2727,38.33,4.4,"1 km NNE of Una, India",1 Nne Una India
+2013-08-06T18:36:30.500Z,23.3104,88.4902,35.88,4.5,"9 km NE of Sh?ntipur, India",9 Ne Shantipur India
+2013-08-05T14:46:00.350Z,33.3339,75.9342,50.45,4.1,"15 km E of Kishtw?r, India",15 E Kishtwar India
+2013-08-05T13:57:48.780Z,33.4569,76.0182,46.77,4.3,"28 km NE of Kishtw?r, India",28 Ne Kishtwar India
+2013-07-29T13:07:03.000Z,23.2863,70.4026,20,4,"6 km ESE of Bhach?u, India",6 Ese Bhachau India
+2013-07-13T17:49:36.640Z,32.383,76.535,25.5,4.4,"27 km NE of Dharamsala, India",27 Ne Dharamsala India
+2013-07-12T07:01:32.200Z,26.267,90.7,48.2,4.1,"6 km SSE of Abhay?puri, India",6 Sse Abhayapuri India
+2013-07-09T15:52:34.080Z,32.85,78.327,36.9,4,"125 km ENE of Kyelang, India",125 Ene Kyelang India
+2013-07-08T03:44:20.050Z,23.84,91.359,10.1,4.1,"0 km NW of R?n?r B?z?r, India",0 Nw Ranar Bazar India
+2013-06-05T22:04:03.100Z,32.907,76.286,43.3,4,"41 km NNE of Chamba, India",41 Nne Chamba India
+2013-06-04T17:24:20.240Z,19.884,68.094,15.2,4.1,"250 km SW of Porbandar, India",250 Sw Porbandar India
+2013-06-01T13:28:53.880Z,22.02,88.572,10,4.1,"22 km NE of Kultali, India",22 Ne Kultali India
+2013-05-14T19:58:24.430Z,33.121,75.735,35.7,4.3,"15 km N of Bhadarw?h, India",15 N Bhadarwah India
+2013-05-02T00:30:41.250Z,33.121,75.827,15.8,4.3,"18 km NNE of Bhadarw?h, India",18 Nne Bhadarwah India
+2013-05-02T00:30:07.400Z,32.964,75.69,10,4.2,"3 km SW of Bhadarw?h, India",3 Sw Bhadarwah India
+2013-05-01T07:05:36.310Z,33.055,75.724,10,4.2,"8 km N of Bhadarw?h, India",8 N Bhadarwah India
+2013-04-30T09:41:51.600Z,33.152,75.741,10,4.5,"18 km E of Doda, India",18 E Doda India
+2013-04-19T06:35:52.970Z,27.333,87.853,47.1,4.2,"40 km W of Gyalshing, India",40 W Gyalshing India
+2013-04-17T03:01:38.230Z,33.249,76.663,42.2,4,"31 km SW of Padam, India",31 Sw Padam India
+2013-02-24T00:57:30.210Z,27.264,75.491,10,3.6,"13 km SW of R?ngas, India",13 Sw Rangas India
+2013-02-06T19:05:30.740Z,34.347,80.606,10,4.2,"279 km E of Leh, India",279 E Leh India
+2013-01-22T15:49:24.010Z,34.214,80.306,37.8,4,"250 km E of Leh, India",250 E Leh India
+2012-12-20T13:00:53.810Z,27.651,76.116,10,3.9,"9 km SW of Kotputli, India",9 Sw Kotputli India
+2012-12-08T07:06:10.080Z,22.96,70.302,10,4.1,"11 km SE of K?ndla, India",11 Se Kandla India
+2012-11-27T12:15:16.870Z,30.9,78.422,23.4,4.4,"18 km N of Uttark?shi, India",18 N Uttarkashi India
+2012-11-25T06:01:45.530Z,23.62,91.482,39.8,4.5,"9 km N of Udaipur, India",9 N Udaipur India
+2012-11-11T20:23:12.680Z,32.294,76.331,10,4,"8 km N of Dharamsala, India",8 N Dharamsala India
+2012-10-03T10:49:26.470Z,32.296,76.254,10,4.2,"10 km NW of Dharamsala, India",10 Nw Dharamsala India
+2012-10-03T10:04:50.650Z,33.498,75.963,35,4.1,"27 km NE of Kishtw?r, India",27 Ne Kishtwar India
+2012-09-06T18:27:11.800Z,25.455,91.208,45.1,4.5,"8 km SW of Nongstoin, India",8 Sw Nongstoin India
+2012-08-02T18:00:26.210Z,33.731,75.446,10,4.1,"27 km E of Anantnag, India",27 E Anantnag India
+2012-07-26T05:31:38.020Z,33.466,76.105,56.2,4.4,"35 km ENE of Kishtw?r, India",35 Ene Kishtwar India
+2012-06-24T12:13:02.520Z,34.318,80.248,41.1,4.3,"245 km E of Leh, India",245 E Leh India
+2012-06-19T14:00:07.610Z,28.728,76.685,10,4.1,"10 km WSW of Kheri S?mpla, India",10 Wsw Kheri Sampla India
+2012-06-11T04:35:59.960Z,27.306,88.13,51.5,4.5,"12 km W of Gyalshing, India",12 W Gyalshing India
+2012-05-30T01:54:30.620Z,27.328,87.974,35.4,4.3,"28 km W of Gyalshing, India",28 W Gyalshing India
+2012-05-27T15:01:27.040Z,26.491,91.1,34.7,4.3,"13 km E of Barpeta Road, India",13 E Barpeta Road India
+2012-04-14T20:50:52.680Z,34.189,79.768,30.1,4,"201 km E of Leh, India",201 E Leh India
+2012-04-14T05:27:39.580Z,17.247,73.601,10,4.4,"11 km ESE of M?khjan, India",11 Ese Makhjan India
+2012-04-14T03:22:59.690Z,23.239,70.439,10,4,"11 km SE of Bhach?u, India",11 Se Bhachau India
+2012-03-07T13:18:23.400Z,32.029,78.109,55.6,4.3,"64 km NNE of Sar?han, India",64 Nne Sarahan India
+2012-01-04T16:31:25.020Z,33.624,74.892,22.8,4.2,"11 km SSE of Shup?yan, India",11 Sse Shupayan India
+2011-12-14T20:20:53.840Z,27.504,87.955,47.5,4,"38 km NW of Gyalshing, India",38 Nw Gyalshing India
+2011-10-29T00:43:55.140Z,27.449,88.684,10,3.5,"15 km NNE of Gangtok, India",15 Nne Gangtok India
+2011-10-22T21:07:39.230Z,32.939,75.811,10,4.2,"9 km ESE of Bhadarw?h, India",9 Ese Bhadarwah India
+2011-09-24T15:21:34.660Z,34.042,75.249,61,4.2,"7 km WNW of Pahlg?m, India",7 Wnw Pahlgam India
+2011-09-19T00:52:03.990Z,17.92,76.564,10,4,"11 km NW of Umarga, India",11 Nw Umarga India
+2011-09-18T19:20:54.830Z,25.759,91.178,37.1,4,"28 km NNW of Nongstoin, India",28 Nnw Nongstoin India
+2011-09-07T17:58:18.700Z,28.724,77.189,10,4.3,"6 km NE of Pitampura, India",6 Ne Pitampura India
+2011-08-13T02:59:12.930Z,23.321,70.242,10,4.3,"10 km WNW of Bhach?u, India",10 Wnw Bhachau India
+2011-07-28T18:42:35.260Z,33.32,75.998,33.3,4.5,"21 km E of Kishtw?r, India",21 E Kishtwar India
+2011-06-23T12:39:39.910Z,23.887,91.484,35,4.4,"13 km ENE of R?n?r B?z?r, India",13 Ene Ranar Bazar India
+2011-05-03T14:39:00.160Z,23.686,91.321,10,4,"8 km NNW of Barjala, India",8 Nnw Barjala India
+2011-04-28T09:53:02.500Z,33.047,76.817,10,4.2,"46 km S of Padam, India",46 S Padam India
+2011-02-10T03:51:44.230Z,27.215,88.211,46.2,4,"9 km SSW of Gyalshing, India",9 Ssw Gyalshing India
+2010-11-07T03:40:26.820Z,34.388,74.081,70.9,4.4,"31 km NW of B?ram?la, India",31 Nw Baramala India
+2010-09-11T07:02:09.110Z,25.72,90.205,22.3,4.5,"22 km N of Tura, India",22 N Tura India
+2010-09-02T03:09:06.700Z,23.625,71.898,10,4,"7 km S of H?rij, India",7 S Harij India
+2010-08-14T03:08:17.630Z,34.124,78.735,67.9,4.1,"106 km E of Leh, India",106 E Leh India
+2010-07-30T04:36:56.250Z,8.356,91.525,35,4.4,"Nicobar Islands, India region",Nicobar Islands India Region
+2010-06-04T11:58:10.100Z,33.243,76.297,35,4.5,"49 km E of Kishtw?r, India",49 E Kishtwar India
+2010-06-02T08:05:22.880Z,31.406,80.251,35,4,"114 km NE of Josh?math, India",114 Ne Joshamath India
+2010-05-03T17:15:08.000Z,30.27,78.314,13.5,4,"12 km NNE of Narendranagar, India",12 Nne Narendranagar India
+2010-05-01T22:36:29.370Z,30.099,80.026,35.5,4.5,"37 km NE of Bageshwar, India",37 Ne Bageshwar India
+2010-03-23T09:59:56.620Z,33.78,75.151,39.8,4.2,"4 km ESE of Bijbehara, India",4 Ese Bijbehara India
+2010-03-14T06:53:21.790Z,31.677,76.105,30,4.5,"4 km ENE of Gagret, India",4 Ene Gagret India
+2010-01-12T09:25:30.550Z,17.2,73.73,10,4.2,"22 km S of Koynanagar, India",22 S Koynanagar India
+2009-12-12T21:55:02.120Z,17.123,73.45,10,4.3,"17 km SSW of M?khjan, India",17 Ssw Makhjan India
+2009-12-12T16:25:41.770Z,17.11,73.69,10,4.4,"26 km SE of M?khjan, India",26 Se Makhjan India
+2009-11-14T13:34:34.490Z,17.056,73.747,10,4.3,"25 km NW of Malk?pur, India",25 Nw Malkapur India
+2009-10-28T13:40:10.480Z,23.65,69.843,10,4.4,"47 km NNE of Bhuj, India",47 Nne Bhuj India
+2009-10-05T09:46:59.360Z,10.696,91.566,10,4.5,"167 km SW of Bamboo Flat, India",167 Sw Bamboo Flat India
+2009-09-05T06:40:03.570Z,23.123,70.249,10,4,"10 km NNE of Kandla, India",10 Nne Kandla India
+2009-06-04T13:50:57.680Z,32.931,76.177,10,3.8,"41 km N of Chamba, India",41 N Chamba India
+2009-04-25T14:29:28.110Z,26.112,91.446,37.8,4.4,"9 km W of Pal?sb?ri, India",9 W Palasbari India
+2009-03-26T04:44:11.650Z,22.399,85.903,10,4.1,"19 km SSE of Ch??b?sa, India",19 Sse Chaabasa India
+2009-01-31T03:07:19.800Z,32.528,76.564,36.1,3.9,"41 km NE of Dharamsala, India",41 Ne Dharamsala India
+2009-01-09T12:40:20.960Z,31.807,78.343,28.2,4.2,"61 km ENE of Sar?han, India",61 Ene Sarahan India
+2009-01-05T07:04:10.330Z,23.011,88.706,35,4.2,"10 km NE of Nagarukhra, India",10 Ne Nagarukhra India
+2009-01-04T05:20:06.550Z,21.585,75.332,10,4.1,"26 km ESE of Sendhwa, India",26 Ese Sendhwa India
+2008-12-31T16:12:18.850Z,31.844,79.753,35,3.2,"143 km N of Josh?math, India",143 N Joshamath India
+2008-12-31T15:46:22.540Z,31.955,79.912,42.4,3.6,"158 km NNE of Josh?math, India",158 Nne Joshamath India
+2008-12-02T23:24:36.830Z,34.707,80.007,10,3.8,"230 km ENE of Leh, India",230 Ene Leh India
+2008-11-20T20:02:02.370Z,34.615,74.003,73.7,3.6,"54 km NW of B?ram?la, India",54 Nw Baramala India
+2008-11-18T23:00:47.980Z,23.77,91.142,35,3.8,"15 km WSW of Agartala, India",15 Wsw Agartala India
+2008-11-10T15:26:15.690Z,35.177,74.543,42.1,3.4,"84 km N of Bandipura, India",84 N Bandipura India
+2008-11-08T16:51:37.950Z,23.636,87.36,10,4.2,"14 km NNE of Durgapur, India",14 Nne Durgapur India
+2008-10-23T15:31:34.570Z,10.885,91.523,30.4,4.2,"158 km SW of Bamboo Flat, India",158 Sw Bamboo Flat India
+2008-10-21T15:09:10.500Z,31.655,77.465,17.1,4.5,"11 km E of Banj?r, India",11 E Banjar India
+2008-10-07T18:09:37.280Z,27.47,87.843,3.3,3.8,"45 km WNW of Gyalshing, India",45 Wnw Gyalshing India
+2008-10-05T11:33:42.910Z,21.223,70.995,10,3.8,"12 km SSW of Dh?ri, India",12 Ssw Dhari India
+2008-10-04T22:38:14.950Z,10.52,91.554,10,3.9,"181 km SW of Port Blair, India",181 Sw Port Blair India
+2008-10-04T01:41:14.180Z,10.539,91.549,25.4,3.8,"180 km SW of Port Blair, India",180 Sw Port Blair India
+2008-10-03T21:57:34.810Z,10.662,91.498,10,4.3,"175 km SW of Bamboo Flat, India",175 Sw Bamboo Flat India
+2008-10-03T21:40:41.330Z,10.526,91.578,10,4,"179 km SW of Port Blair, India",179 Sw Port Blair India
+2008-09-14T22:11:30.150Z,32.581,76.381,23.6,3.9,"24 km E of Chamba, India",24 E Chamba India
+2008-08-19T10:54:26.720Z,30.077,80.013,15.5,4.2,"35 km NE of B?geshwar, India",35 Ne Bageshwar India
+2008-08-16T19:59:12.110Z,35.039,74.045,29.9,3.5,"88 km NW of Bandipura, India",88 Nw Bandipura India
+2008-08-16T19:16:12.330Z,30.185,77.836,10,3.8,"18 km NNE of Chhutmalpur, India",18 Nne Chhutmalpur India
+2008-08-13T14:49:08.260Z,30.041,80.161,42.5,3.9,"40 km WNW of Dh?rchula, India",40 Wnw Dharchula India
+2008-08-10T14:57:38.210Z,10.566,91.072,10,4.5,"219 km SW of Bamboo Flat, India",219 Sw Bamboo Flat India
+2008-08-10T10:38:58.080Z,10.737,91.474,10,4.1,"172 km SW of Bamboo Flat, India",172 Sw Bamboo Flat India
+2008-08-10T09:46:07.430Z,10.77,91.504,10,4.2,"167 km SW of Bamboo Flat, India",167 Sw Bamboo Flat India
+2008-07-29T19:10:59.640Z,17.644,74.166,45,4.5,"6 km NNW of Rahimatpur, India",6 Nnw Rahimatpur India
+2008-07-20T23:34:57.500Z,10.248,90.325,10,3.6,"Andaman Islands, India region",Andaman Islands India Region
+2008-07-08T15:51:40.120Z,10.902,91.099,10,4,"197 km WSW of Bamboo Flat, India",197 Wsw Bamboo Flat India
+2008-07-08T02:11:34.640Z,34.322,80.483,10,3.7,"267 km E of Leh, India",267 E Leh India
+2008-07-07T22:09:54.570Z,34.285,80.526,10,3.5,"271 km E of Leh, India",271 E Leh India
+2008-07-05T10:28:28.390Z,33.467,75.942,56.6,3.5,"23 km NE of Kishtw?r, India",23 Ne Kishtwar India
+2008-06-29T08:22:05.780Z,10.597,91.477,10,4.2,"182 km SW of Port Blair, India",182 Sw Port Blair India
+2008-06-29T07:33:51.350Z,10.486,91.151,10,4.3,"217 km SW of Bamboo Flat, India",217 Sw Bamboo Flat India
+2008-06-29T05:43:56.850Z,10.696,91.552,10,4.1,"168 km SW of Bamboo Flat, India",168 Sw Bamboo Flat India
+2008-06-29T04:47:56.600Z,10.501,91.449,10,4.2,"191 km SW of Port Blair, India",191 Sw Port Blair India
+2008-06-29T02:17:20.350Z,10.837,91.542,10,3.8,"159 km SW of Bamboo Flat, India",159 Sw Bamboo Flat India
+2008-06-29T01:33:16.720Z,10.57,91.537,10,4.1,"179 km SW of Port Blair, India",179 Sw Port Blair India
+2008-06-29T01:14:16.830Z,10.576,91.377,10,4.3,"192 km SW of Bamboo Flat, India",192 Sw Bamboo Flat India
+2008-06-28T16:58:41.660Z,10.608,91.444,10,3.8,"184 km SW of Bamboo Flat, India",184 Sw Bamboo Flat India
+2008-06-28T15:54:32.970Z,10.576,91.565,10,3.9,"176 km SW of Port Blair, India",176 Sw Port Blair India
+2008-06-28T15:39:59.140Z,10.409,91.146,10,4.2,"223 km SW of Bamboo Flat, India",223 Sw Bamboo Flat India
+2008-06-28T15:23:56.090Z,10.66,91.455,10,3.9,"179 km SW of Bamboo Flat, India",179 Sw Bamboo Flat India
+2008-06-28T14:41:32.680Z,10.586,91.56,10,3.7,"176 km SW of Port Blair, India",176 Sw Port Blair India
+2008-06-28T14:33:35.810Z,10.713,91.514,10,4.5,"170 km SW of Bamboo Flat, India",170 Sw Bamboo Flat India
+2008-06-28T14:02:15.590Z,10.512,91.424,10,3.9,"192 km SW of Port Blair, India",192 Sw Port Blair India
+2008-06-28T06:18:19.610Z,10.741,91.555,10,4.1,"165 km SW of Bamboo Flat, India",165 Sw Bamboo Flat India
+2008-06-28T05:45:28.180Z,10.664,91.568,10,4.2,"169 km SW of Port Blair, India",169 Sw Port Blair India
+2008-06-28T03:33:31.250Z,10.394,91.311,10,4,"210 km SW of Port Blair, India",210 Sw Port Blair India
+2008-06-28T03:32:07.830Z,10.356,91.326,10,4.1,"212 km SW of Port Blair, India",212 Sw Port Blair India
+2008-06-28T02:14:11.180Z,10.308,91.308,10,3.7,"217 km SW of Port Blair, India",217 Sw Port Blair India
+2008-06-28T00:02:16.460Z,10.722,91.548,10,3.9,"167 km SW of Bamboo Flat, India",167 Sw Bamboo Flat India
+2008-06-27T23:36:38.050Z,10.918,91.521,2.1,3.8,"156 km WSW of Bamboo Flat, India",156 Wsw Bamboo Flat India
+2008-06-27T21:34:45.490Z,10.576,91.34,10,4,"195 km SW of Bamboo Flat, India",195 Sw Bamboo Flat India
+2008-06-27T21:13:00.170Z,10.651,91.426,10,3.8,"182 km SW of Bamboo Flat, India",182 Sw Bamboo Flat India
+2008-06-27T20:37:34.010Z,10.717,91.581,10,4.1,"164 km SW of Bamboo Flat, India",164 Sw Bamboo Flat India
+2008-06-27T20:20:57.260Z,10.589,91.353,10,4,"193 km SW of Bamboo Flat, India",193 Sw Bamboo Flat India
+2008-06-27T18:34:00.120Z,10.773,91.581,10,4,"160 km SW of Bamboo Flat, India",160 Sw Bamboo Flat India
+2008-06-27T16:04:37.480Z,10.128,90.447,10,3.7,"Andaman Islands, India region",Andaman Islands India Region
+2008-06-27T15:53:47.370Z,10.63,91.254,10,3.8,"198 km SW of Bamboo Flat, India",198 Sw Bamboo Flat India
+2008-06-27T15:13:21.830Z,10.516,91.203,10,3.7,"210 km SW of Bamboo Flat, India",210 Sw Bamboo Flat India
+2008-06-27T15:01:58.000Z,9.853,90.178,10,4,"Nicobar Islands, India region",Nicobar Islands India Region
+2008-06-27T14:36:42.820Z,10.736,91.535,10,4.5,"167 km SW of Bamboo Flat, India",167 Sw Bamboo Flat India
+2008-06-27T14:16:50.220Z,10.15,91.468,10,4.4,"218 km SW of Port Blair, India",218 Sw Port Blair India
+2008-06-27T14:02:13.060Z,10.73,91.526,10,4.1,"168 km SW of Bamboo Flat, India",168 Sw Bamboo Flat India
+2008-06-15T11:02:01.990Z,32.97,76.371,36.3,4.3,"51 km NNE of Chamba, India",51 Nne Chamba India
+2008-06-06T21:16:33.880Z,24.702,84.964,11.4,3.8,"2 km W of Buddh Gaya, India",2 W Buddh Gaya India
+2008-06-04T01:07:51.180Z,34.434,80.242,10,3.4,"246 km E of Leh, India",246 E Leh India
+2008-05-29T22:30:41.190Z,32.586,76.087,45.9,3.5,"5 km NW of Chamba, India",5 Nw Chamba India
+2008-05-23T21:17:25.250Z,33.438,75.955,11.5,3.4,"22 km NE of Kishtw?r, India",22 Ne Kishtwar India
+2008-05-20T23:42:18.470Z,32.731,75.825,35,3.8,"22 km NNW of Dalhousie, India",22 Nnw Dalhousie India
+2008-05-10T06:35:55.860Z,33.06,76.116,44.7,4.4,"38 km ENE of Bhadarw?h, India",38 Ene Bhadarwah India
+2008-05-08T22:20:51.400Z,24.005,91.209,30.6,3.9,"20 km NNW of Agartala, India",20 Nnw Agartala India
+2008-05-05T03:20:31.030Z,34.198,74.042,35,3.9,"13 km N of Uri, India",13 N Uri India
+2008-04-15T21:34:06.840Z,34.208,74.094,61.8,3.4,"14 km NNE of Uri, India",14 Nne Uri India
+2008-04-09T02:08:45.180Z,31.49,74.633,49.4,3.3,"27 km WSW of Amritsar, India",27 Wsw Amritsar India
+2008-04-07T09:00:53.080Z,23.147,70.445,10,3.8,"19 km SSE of Bhach?u, India",19 Sse Bhachau India
+2008-04-05T19:28:04.600Z,33.238,75.922,65.2,3.5,"16 km ESE of Kishtw?r, India",16 Ese Kishtwar India
+2008-03-24T09:48:29.350Z,32.608,76.061,10,3.6,"8 km NW of Chamba, India",8 Nw Chamba India
+2008-03-16T05:44:33.540Z,33.772,74.846,10,3.5,"6 km N of Shup?yan, India",6 N Shupayan India
+2008-03-11T16:44:06.030Z,32.978,76.328,35,3.7,"50 km NNE of Chamba, India",50 Nne Chamba India
+2008-03-11T06:13:34.480Z,34.127,73.9,47.4,4.1,"14 km WNW of Uri, India",14 Wnw Uri India
+2008-03-11T03:31:54.070Z,7.915,91.396,35,3.8,"Nicobar Islands, India region",Nicobar Islands India Region
+2008-03-09T11:10:41.030Z,23.33,70.592,10,4.5,"25 km E of Bhach?u, India",25 E Bhachau India
+2008-03-08T03:33:17.220Z,33.31,76.571,37.2,3.8,"33 km WSW of Padam, India",33 Wsw Padam India
+2008-03-05T22:57:12.520Z,33.768,75.028,39.4,4.2,"7 km WSW of Bijbehara, India",7 Wsw Bijbehara India
+2008-03-05T13:17:26.290Z,10.115,91.457,35,4.3,"222 km SW of Port Blair, India",222 Sw Port Blair India
+2008-03-01T21:41:47.700Z,23.327,70.49,10,3.7,"15 km ENE of Bhach?u, India",15 Ene Bhachau India
+2008-02-29T18:40:53.500Z,33.75,75.008,51.1,3.8,"10 km WSW of Bijbehara, India",10 Wsw Bijbehara India
+2008-02-27T03:13:05.870Z,10.345,91.543,20.4,3.8,"196 km SW of Port Blair, India",196 Sw Port Blair India
+2008-02-26T01:35:40.200Z,10.195,91.453,35,4,"215 km SW of Port Blair, India",215 Sw Port Blair India
+2008-02-25T07:25:06.430Z,33.706,74.941,28.3,4.3,"9 km NW of Kulgam, India",9 Nw Kulgam India
+2008-02-20T02:36:03.990Z,33.818,74.523,37,3.6,"22 km WSW of Tsr?r Shar?f, India",22 Wsw Tsrar Sharaf India
+2008-02-08T13:01:45.310Z,34.922,77.191,10,3.5,"36 km E of Thang, India",36 E Thang India
+2008-02-07T18:01:50.000Z,34.506,74.223,59,3.2,"33 km NW of Sopur, India",33 Nw Sopur India
+2008-02-06T06:09:40.420Z,23.433,87.111,10,4.3,"16 km NW of Beli?tor, India",16 Nw Beliator India
+2008-02-04T10:15:05.160Z,8.192,91.467,10,4.3,"Nicobar Islands, India region",Nicobar Islands India Region
+2008-01-24T03:43:50.850Z,34.237,74.213,55.3,3.6,"12 km WNW of B?ram?la, India",12 Wnw Baramala India
+2008-01-07T04:08:38.880Z,31.633,76.715,35,3.4,"7 km SSW of Sarka Gh?t, India",7 Ssw Sarka Ghat India
+2008-01-03T14:10:20.250Z,33.283,75.928,35,3.6,"15 km ESE of Kishtw?r, India",15 Ese Kishtwar India
+2007-12-26T19:31:23.870Z,35.222,76.655,74.2,4,"35 km NNW of Thang, India",35 Nnw Thang India
+2007-12-11T16:01:32.250Z,34.923,77.428,10,4.3,"57 km E of Thang, India",57 E Thang India
+2007-11-24T11:35:47.270Z,17.151,73.892,10,4.2,"Maharashtra, India",Maharashtra India
+2007-11-21T16:54:12.760Z,10.911,91.267,35,4.2,"180 km WSW of Bamboo Flat, India",180 Wsw Bamboo Flat India
+2007-11-08T04:42:11.480Z,29.279,78.414,10,3.7,"5 km SSE of Nihtaur, India",5 Sse Nihtaur India
+2007-10-08T01:12:34.710Z,23.104,69.983,10,4.5,"4 km WSW of Anj?r, India",4 Wsw Anjar India
+2007-10-06T01:39:05.380Z,34.517,74.396,51.2,4.2,"25 km WNW of Bandipura, India",25 Wnw Bandipura India
+2007-09-18T19:49:04.900Z,25.241,91.13,40,4.3,"33 km SSW of Nongstoin, India",33 Ssw Nongstoin India
+2007-09-06T07:09:44.150Z,18.057,76.535,10,3.6,"21 km S of Ausa, India",21 S Ausa India
+2007-09-01T01:33:16.100Z,27.853,87.873,73.1,4,"73 km NNW of Gyalshing, India",73 Nnw Gyalshing India
+2007-08-20T19:15:53.500Z,17.2,73.7,5,4.4,"22 km ESE of M?khjan, India",22 Ese Makhjan India
+2007-08-09T20:33:46.250Z,31.343,80.155,10,4.5,"103 km NNE of Josh?math, India",103 Nne Joshamath India
+2007-08-07T10:11:40.920Z,30.97,78.116,10,3.8,"19 km NNW of Barkot, India",19 Nnw Barkot India
+2007-08-01T04:53:38.700Z,34.075,74.612,47.6,3.4,"2 km SE of M?g?m, India",2 Se Magam India
+2007-07-13T06:18:55.550Z,23.641,70.639,10,4.2,"7 km N of R?par, India",7 N Rapar India
+2007-07-03T14:47:31.180Z,10.121,91.505,30,4.4,"218 km SW of Port Blair, India",218 Sw Port Blair India
+2007-06-22T19:12:43.310Z,34.301,74.375,48.9,3.5,"9 km W of Sopur, India",9 W Sopur India
+2007-06-14T19:52:38.600Z,32.112,76.823,10,4.3,"14 km NNE of Jogindarnagar, India",14 Nne Jogindarnagar India
+2007-06-14T00:27:28.960Z,33.177,75.826,29,3.6,"16 km SSE of Kishtw?r, India",16 Sse Kishtwar India
+2007-06-07T11:37:48.820Z,10.556,91.568,30,4.5,"177 km SW of Port Blair, India",177 Sw Port Blair India
+2007-06-03T08:09:52.040Z,31.412,77.711,30,3.6,"8 km ESE of R?mpur, India",8 Ese Rampur India
+2007-05-23T17:40:44.710Z,27.204,88.253,10,3.5,"8 km N of Naya B?z?r, India",8 N Naya Bazar India
+2007-05-16T04:17:27.950Z,27.291,87.851,31.7,4,"40 km W of Gyalshing, India",40 W Gyalshing India
+2007-04-19T17:22:06.760Z,34.014,73.922,46.4,3.8,"14 km WSW of Uri, India",14 Wsw Uri India
+2007-04-08T16:20:13.550Z,23.083,70.187,10,4.2,"5 km E of G?ndh?dh?m, India",5 E Gandhadham India
+2007-04-02T00:40:25.930Z,34.833,76.256,35,3.9,"32 km NNE of Kargil, India",32 Nne Kargil India
+2007-03-27T11:19:29.320Z,31.012,78.212,35,3.9,"22 km N of Barkot, India",22 N Barkot India
+2007-02-21T00:33:25.880Z,31.373,77.752,36.6,4.1,"14 km SE of R?mpur, India",14 Se Rampur India
+2007-02-14T11:44:36.270Z,26.326,91.339,35,3.7,"20 km WNW of H?jo, India",20 Wnw Hajo India
+2007-01-29T05:28:34.240Z,31.31,80.096,35,3.9,"97 km NNE of Josh?math, India",97 Nne Joshamath India
+2007-01-24T10:29:27.290Z,25.686,89.86,19.6,4.1,"16 km N of Mank?char, India",16 N Mankachar India
+2006-12-31T21:36:54.070Z,28.216,88.232,35,4.1,"83 km NNW of Mangan, India",83 Nnw Mangan India
+2006-12-26T16:25:20.240Z,33.179,75.817,33.3,3.5,"15 km SSE of Kishtw?r, India",15 Sse Kishtwar India
+2006-12-24T22:43:26.730Z,26.881,76.154,10,4.2,"11 km ENE of Basi, India",11 Ene Basi India
+2006-12-17T21:39:19.390Z,34.316,76.232,35,3.3,"28 km SSE of Kargil, India",28 Sse Kargil India
+2006-12-10T08:19:25.950Z,31.507,77.027,8.2,4,"12 km ESE of Sundarnagar, India",12 Ese Sundarnagar India
+2006-12-10T08:00:42.150Z,31.824,76.762,10,3.8,"14 km N of Sarka Gh?t, India",14 N Sarka Ghat India
+2006-11-29T05:41:14.180Z,27.348,76.83,10,4,"23 km ENE of R?jgarh, India",23 Ene Rajgarh India
+2006-11-07T03:36:06.990Z,34.274,73.918,35,3.9,"24 km NNW of Uri, India",24 Nnw Uri India
+2006-10-30T22:54:31.480Z,34.478,80.492,35,3.6,"269 km E of Leh, India",269 E Leh India
+2006-10-27T07:55:01.980Z,29.875,80.035,10,4.2,"25 km E of B?geshwar, India",25 E Bageshwar India
+2006-10-27T01:07:32.960Z,29.854,80.545,38.8,4.1,"2 km ENE of Dh?rchula, India",2 Ene Dharchula India
+2006-10-13T07:18:26.600Z,34.659,80.203,10,4.4,"246 km ENE of Leh, India",246 Ene Leh India
+2006-10-04T21:34:53.630Z,29.729,80.366,10,3.9,"19 km SW of Dh?rchula, India",19 Sw Dharchula India
+2006-09-28T20:47:13.920Z,33.227,75.493,10,4,"10 km NNW of Doda, India",10 Nnw Doda India
+2006-09-13T04:23:11.280Z,32.729,76.615,35,3.6,"42 km WNW of Kyelang, India",42 Wnw Kyelang India
+2006-08-31T05:36:09.200Z,26.217,89.817,28.4,3.8,"12 km N of Golakganj, India",12 N Golakganj India
+2006-08-20T02:37:17.930Z,23.26,70.72,10,4.4,"35 km SSE of R?par, India",35 Sse Rapar India
+2006-08-05T07:33:02.490Z,29.887,80.098,10,4.5,"32 km E of B?geshwar, India",32 E Bageshwar India
+2006-07-20T07:52:29.800Z,31.58,77.928,10,3.5,"14 km ENE of Sar?han, India",14 Ene Sarahan India
+2006-07-20T00:35:00.180Z,31.604,77.905,35,3.5,"14 km NE of Sar?han, India",14 Ne Sarahan India
+2006-07-20T00:10:58.240Z,31.642,78.038,35,4,"27 km ENE of Sar?han, India",27 Ene Sarahan India
+2006-07-18T10:42:29.530Z,32.783,77.38,31.1,4.2,"40 km NE of Kyelang, India",40 Ne Kyelang India
+2006-07-17T13:47:48.360Z,26.744,89.432,10,4.1,"7 km E of H?sim?ra, India",7 E Hasimara India
+2006-06-26T04:18:45.420Z,34.886,74.45,10,3.8,"54 km NNW of Bandipura, India",54 Nnw Bandipura India
+2006-06-19T16:57:35.960Z,25.529,90.676,40.9,4.2,"47 km E of Tura, India",47 E Tura India
+2006-06-11T00:59:44.040Z,32.729,76.198,10,3.5,"20 km NNE of Chamba, India",20 Nne Chamba India
+2006-05-21T20:29:00.290Z,16.899,73.607,10,3.7,"7 km NE of L?nja, India",7 Ne Lanja India
+2006-05-09T13:30:19.390Z,32.661,76.686,14.3,4.4,"33 km WNW of Kyelang, India",33 Wnw Kyelang India
+2006-05-07T16:01:01.880Z,28.975,76.561,10,4.3,"9 km NNW of Rohtak, India",9 Nnw Rohtak India
+2006-05-07T14:54:57.560Z,23.144,70.196,26.9,4,"9 km NE of G?ndh?dh?m, India",9 Ne Gandhadham India
+2006-04-21T23:20:59.670Z,32.569,76.664,35,3.9,"33 km W of Kyelang, India",33 W Kyelang India
+2006-04-04T11:40:17.010Z,33.289,75.917,45,3.8,"14 km E of Kishtw?r, India",14 E Kishtwar India
+2006-03-31T11:25:35.640Z,28.976,76.606,10,3.9,"9 km N of Rohtak, India",9 N Rohtak India
+2006-03-29T10:56:56.910Z,33.194,75.741,45,3.7,"13 km S of Kishtw?r, India",13 S Kishtwar India
+2006-03-12T13:22:11.250Z,10.06,91.515,10,4.5,"222 km SW of Port Blair, India",222 Sw Port Blair India
+2006-02-25T18:51:12.470Z,30.298,80.119,10,3.6,"60 km ESE of Josh?math, India",60 Ese Joshamath India
+2006-02-20T09:57:21.450Z,33.917,74.169,45,3.7,"15 km SW of Kupw?ra, India",15 Sw Kupwara India
+2006-02-14T19:17:33.260Z,30.265,80.528,62.5,4.5,"46 km N of Dh?rchula, India",46 N Dharchula India
+2006-02-05T00:49:54.730Z,14.22,91.476,35,3.8,"Andaman Islands, India region",Andaman Islands India Region
+2006-02-03T00:54:23.460Z,23.827,70.559,10,4.5,"29 km NNW of R?par, India",29 Nnw Rapar India
+2006-01-30T01:57:34.500Z,30.168,80.225,40.8,4.1,"45 km NW of Dh?rchula, India",45 Nw Dharchula India
+2006-01-24T09:56:46.430Z,35.069,74.498,48.9,3.5,"73 km N of Bandipura, India",73 N Bandipura India
+2006-01-22T03:20:01.990Z,34.681,80.234,10,4.3,"250 km ENE of Leh, India",250 Ene Leh India
+2006-01-08T19:16:49.010Z,31.237,80.212,35,3.5,"97 km NE of Josh?math, India",97 Ne Joshamath India
+2005-12-31T06:31:43.980Z,25.732,90.384,35,4.2,"30 km NE of Tura, India",30 Ne Tura India
+2005-12-26T10:46:06.950Z,17.285,73.884,10,4.1,"10 km S of P?tan, India",10 S Patan India
+2005-12-16T18:01:28.450Z,30.464,79.142,23.1,3.7,"25 km NE of Rudrapray?g, India",25 Ne Rudraprayag India
+2005-12-15T01:19:56.780Z,34.806,77.471,10,4,"63 km ESE of Thang, India",63 Ese Thang India
+2005-11-29T09:27:22.810Z,34.748,80.073,35,4.5,"237 km ENE of Leh, India",237 Ene Leh India
+2005-11-25T12:50:25.060Z,28.067,88.905,10,3.7,"72 km NNE of Mangan, India",72 Nne Mangan India
+2005-11-20T18:50:40.740Z,17.65,73.721,10,4.2,"25 km ENE of Chipl?n, India",25 Ene Chiplan India
+2005-11-20T04:46:25.360Z,29.962,79.967,43.7,3.7,"23 km NE of B?geshwar, India",23 Ne Bageshwar India
+2005-11-13T03:56:08.890Z,17.287,74.035,10,3.7,"15 km W of Malkapur, India",15 W Malkapur India
+2005-11-09T13:22:12.680Z,10.056,91.491,30,4.5,"224 km SW of Port Blair, India",224 Sw Port Blair India
+2005-11-08T12:55:17.900Z,34.214,73.772,10,3.8,"29 km WNW of Uri, India",29 Wnw Uri India
+2005-11-05T23:03:49.390Z,34.188,73.826,10,4.1,"23 km WNW of Uri, India",23 Wnw Uri India
+2005-11-04T21:05:50.370Z,34.254,74.271,10,3.6,"8 km NW of B?ram?la, India",8 Nw Baramala India
+2005-10-31T10:20:53.880Z,33.494,75.115,35,3.6,"9 km NW of Banih?l, India",9 Nw Banihal India
+2005-10-30T08:30:08.970Z,27.85,87.993,85.5,3.9,"64 km NW of Mangan, India",64 Nw Mangan India
+2005-10-27T19:26:21.230Z,34.167,73.841,10,4.2,"21 km WNW of Uri, India",21 Wnw Uri India
+2005-10-26T01:49:25.920Z,34.244,73.976,10,3.7,"19 km NNW of Uri, India",19 Nnw Uri India
+2005-10-21T14:45:36.030Z,34.458,73.981,10,4,"42 km N of Uri, India",42 N Uri India
+2005-10-15T06:52:13.970Z,34.026,73.871,10,4.5,"17 km WSW of Uri, India",17 Wsw Uri India
+2005-10-15T04:43:01.720Z,34.29,73.883,10,4.2,"27 km NNW of Uri, India",27 Nnw Uri India
+2005-10-11T22:53:53.120Z,33.078,76.208,10,4.1,"47 km ENE of Bhadarw?h, India",47 Ene Bhadarwah India
+2005-10-11T20:51:15.050Z,34.275,73.868,13.9,4.2,"27 km NW of Uri, India",27 Nw Uri India
+2005-10-11T10:55:04.640Z,34.36,73.928,10,3.9,"32 km NNW of Uri, India",32 Nnw Uri India
+2005-10-11T07:45:11.890Z,34.306,73.981,10,3.5,"25 km NNW of Uri, India",25 Nnw Uri India
+2005-10-10T21:53:24.080Z,34.115,73.855,10,3.1,"18 km WNW of Uri, India",18 Wnw Uri India
+2005-10-10T06:24:15.840Z,34.168,73.759,10,3.5,"28 km WNW of Uri, India",28 Wnw Uri India
+2005-10-10T05:00:33.490Z,34.328,73.845,10,3.5,"33 km NW of Uri, India",33 Nw Uri India
+2005-10-09T22:37:53.180Z,34.233,73.788,10,4.4,"29 km NW of Uri, India",29 Nw Uri India
+2005-10-09T17:56:49.070Z,34.4,73.914,10,3.5,"37 km NNW of Uri, India",37 Nnw Uri India
+2005-10-09T07:19:12.530Z,34.396,74.102,10,3.5,"30 km NW of B?ram?la, India",30 Nw Baramala India
+2005-10-09T01:11:59.640Z,34.211,73.783,10,4.4,"28 km WNW of Uri, India",28 Wnw Uri India
+2005-10-08T14:39:26.480Z,34.095,73.773,10,4,"25 km W of Uri, India",25 W Uri India
+2005-10-08T09:44:25.790Z,34.185,73.778,10,3.5,"27 km WNW of Uri, India",27 Wnw Uri India
+2005-10-08T06:14:44.370Z,34.054,73.954,10,4.5,"9 km WSW of Uri, India",9 Wsw Uri India
+2005-09-14T19:07:55.930Z,8.17,91.537,30,4.2,"Nicobar Islands, India region",Nicobar Islands India Region
+2005-09-12T16:59:52.130Z,25.881,90.529,35,4.2,"27 km SE of Lakhipur, India",27 Se Lakhipur India
+2005-09-07T02:57:47.920Z,33.025,80.698,10,4,"294 km NNE of Josh?math, India",294 Nne Joshamath India
+2005-09-05T16:22:07.240Z,30.432,79.114,35,3.8,"20 km NE of Rudrapray?g, India",20 Ne Rudraprayag India
+2005-08-29T01:31:30.750Z,34.683,74.387,61.9,3.3,"37 km NW of Bandipura, India",37 Nw Bandipura India
+2005-08-26T13:29:16.090Z,10.416,91.521,30.8,4.3,"192 km SW of Port Blair, India",192 Sw Port Blair India
+2005-08-21T19:53:33.890Z,29.974,80.586,35,3.5,"15 km NNE of Dh?rchula, India",15 Nne Dharchula India
+2005-08-18T01:17:53.890Z,33.079,78.198,10,3.4,"123 km ENE of Kyelang, India",123 Ene Kyelang India
+2005-08-16T03:45:54.190Z,30.924,78.56,42.6,4.4,"24 km NNE of Uttark?shi, India",24 Nne Uttarkashi India
+2005-08-14T06:33:32.500Z,17.398,74.118,35,4.4,"13 km NNW of Kar?d, India",13 Nnw Karad India
+2005-08-12T12:13:28.280Z,9.952,91.328,30,4,"244 km SW of Port Blair, India",244 Sw Port Blair India
+2005-07-26T18:27:05.300Z,23.273,91.406,38.1,4,"5 km WNW of Belonia, India",5 Wnw Belonia India
+2005-07-25T19:12:32.650Z,7.305,91.518,35,3.7,"Nicobar Islands, India region",Nicobar Islands India Region
+2005-07-24T19:53:14.830Z,7.931,90.911,30,3.9,"Nicobar Islands, India region",Nicobar Islands India Region
+2005-06-25T20:57:03.890Z,33.871,80.81,10,4,"299 km E of Leh, India",299 E Leh India
+2005-06-22T01:24:06.350Z,34.379,74.488,45,3.7,"10 km N of Sopur, India",10 N Sopur India
+2005-06-07T21:32:07.330Z,17.144,73.854,10,4.4,"26 km S of P?tan, India",26 S Patan India
+2005-05-27T22:12:20.030Z,26.143,87.211,57.7,3.5,"18 km SSW of Forbesganj, India",18 Ssw Forbesganj India
+2005-05-23T00:25:24.280Z,31.126,78.522,10,3.7,"44 km N of Uttark?shi, India",44 N Uttarkashi India
+2005-05-08T00:01:48.260Z,9.749,90.066,30,4.5,"Nicobar Islands, India region",Nicobar Islands India Region
+2005-05-03T00:38:57.730Z,25.764,91.059,33.6,4.3,"34 km NW of Nongstoin, India",34 Nw Nongstoin India
+2005-04-18T20:10:34.570Z,32.671,76.41,20,4.1,"29 km ENE of Chamba, India",29 Ene Chamba India
+2005-04-18T18:33:56.450Z,10.726,91.547,22.3,4,"167 km SW of Bamboo Flat, India",167 Sw Bamboo Flat India
+2005-04-17T10:29:31.990Z,33.701,80.642,31.5,3.9,"287 km E of Leh, India",287 E Leh India
+2005-04-11T09:25:14.650Z,11.301,90.992,30,4.2,"193 km WSW of Bamboo Flat, India",193 Wsw Bamboo Flat India
+2005-04-09T01:36:15.280Z,10.69,91.296,30,4.2,"191 km SW of Bamboo Flat, India",191 Sw Bamboo Flat India
+2005-04-08T00:59:24.110Z,10.693,91.498,30,4.2,"173 km SW of Bamboo Flat, India",173 Sw Bamboo Flat India
+2005-03-28T13:37:20.980Z,8.117,91.395,30,4.1,"Nicobar Islands, India region",Nicobar Islands India Region
+2005-03-27T13:04:08.020Z,10.622,91.276,26.7,4.5,"197 km SW of Bamboo Flat, India",197 Sw Bamboo Flat India
+2005-03-26T03:58:33.720Z,7.326,91.431,30,4.3,"Nicobar Islands, India region",Nicobar Islands India Region
+2005-03-26T00:56:34.670Z,16.822,73.276,10,4.3,"19 km S of Ratnagiri, India",19 S Ratnagiri India
+2005-03-15T02:07:06.830Z,17.072,73.668,10,4.3,"Maharashtra, India",Maharashtra India
+2005-02-28T16:04:49.490Z,32.565,76.581,32.5,3.8,"41 km W of Kyelang, India",41 W Kyelang India
+2005-02-27T18:32:14.240Z,25.371,91.553,24.9,4.2,"16 km WNW of Cherrapunji, India",16 Wnw Cherrapunji India
+2005-02-26T01:42:19.910Z,7.709,91.447,30,4.3,"Nicobar Islands, India region",Nicobar Islands India Region
+2005-02-24T02:13:06.470Z,8.539,90.446,30,4.4,"Nicobar Islands, India region",Nicobar Islands India Region
+2005-02-20T11:01:58.690Z,30.655,78.243,25,3.5,"17 km SSE of Barkot, India",17 Sse Barkot India
+2005-02-19T13:32:33.070Z,10.985,90.777,30,3.9,"226 km WSW of Bamboo Flat, India",226 Wsw Bamboo Flat India
+2005-02-17T22:41:42.070Z,12.823,91.517,30,4,"180 km NW of Bamboo Flat, India",180 Nw Bamboo Flat India
+2005-02-15T21:48:38.440Z,31.85,74.991,50.4,4.2,"3 km ESE of Fatehgarh Ch?ri?n, India",3 Ese Fatehgarh Charian India
+2005-02-14T16:04:52.610Z,12.934,91.519,24.3,4.2,"188 km NW of Bamboo Flat, India",188 Nw Bamboo Flat India
+2005-01-25T15:30:29.460Z,12.105,91.367,30,4,"153 km WNW of Bamboo Flat, India",153 Wnw Bamboo Flat India
+2005-01-25T15:09:05.840Z,10.28,91.411,30,4.4,"211 km SW of Port Blair, India",211 Sw Port Blair India
+2005-01-24T08:59:21.680Z,7.089,91.414,39.9,4.4,"Nicobar Islands, India region",Nicobar Islands India Region
+2005-01-17T00:49:32.030Z,34.273,80.005,38.6,4.4,"223 km E of Leh, India",223 E Leh India
+2005-01-15T11:54:30.460Z,10.805,91.144,26.5,4.3,"198 km WSW of Bamboo Flat, India",198 Wsw Bamboo Flat India
+2005-01-11T18:12:30.560Z,10.288,91.482,30,4.2,"205 km SW of Port Blair, India",205 Sw Port Blair India
+2005-01-09T16:23:51.400Z,10.805,91.147,30,4.2,"197 km WSW of Bamboo Flat, India",197 Wsw Bamboo Flat India
+2005-01-07T01:00:21.640Z,7.512,91.442,30,4.1,"Nicobar Islands, India region",Nicobar Islands India Region
+2004-12-27T17:52:38.580Z,7.352,91.44,30,4.1,"Nicobar Islands, India region",Nicobar Islands India Region
+2004-12-27T16:13:58.250Z,8.671,91.407,30,4.5,"Nicobar Islands, India region",Nicobar Islands India Region
+2004-12-27T11:38:52.780Z,10.938,91.473,30,4.4,"159 km WSW of Bamboo Flat, India",159 Wsw Bamboo Flat India
+2004-12-26T22:57:26.640Z,10.161,91.514,29.3,3.9,"214 km SW of Port Blair, India",214 Sw Port Blair India
+2004-12-26T21:55:10.900Z,10.731,91.543,30,4.5,"167 km SW of Bamboo Flat, India",167 Sw Bamboo Flat India
+2004-11-28T21:17:56.740Z,33.241,74.895,37.9,3.9,"18 km NNE of Ri?si, India",18 Nne Riasi India
+2004-11-26T23:53:56.720Z,30.676,77.2,42.1,3.7,"15 km NW of N?han, India",15 Nw Nahan India
+2004-11-11T02:46:49.000Z,32.22,76.409,20,4.1,"8 km E of Dharamsala, India",8 E Dharamsala India
+2004-10-17T15:35:45.840Z,35.204,77.669,15,4.3,"85 km ENE of Thang, India",85 Ene Thang India
+2004-09-28T00:39:44.500Z,29.97,79.671,82.6,3.7,"17 km NNW of B?geshwar, India",17 Nnw Bageshwar India
+2004-09-09T05:55:46.100Z,29.466,80.281,5.5,4.4,"14 km SSE of Pithor?garh, India",14 Sse Pithoragarh India
+2004-08-31T16:54:09.670Z,23.457,70.512,10,3.8,"18 km SW of R?par, India",18 Sw Rapar India
+2004-08-04T02:09:21.280Z,25.923,90.262,61.7,4.2,"12 km SSW of Lakhipur, India",12 Ssw Lakhipur India
+2004-07-27T00:10:21.620Z,29.25,77.23,75.7,4.1,"6 km NE of Chhaprauli, India",6 Ne Chhaprauli India
+2004-07-22T03:31:05.970Z,32.188,77.17,10,3.9,"5 km N of Nagar, India",5 N Nagar India
+2004-07-17T18:21:57.540Z,23.905,71.57,10,3.8,"Gujarat, India",Gujarat India
+2004-07-13T12:50:07.490Z,33.693,76.999,40,3.9,"27 km NNE of Padam, India",27 Nne Padam India
+2004-05-27T00:22:17.300Z,26.301,89.521,10,4.5,India-Bangladesh border region,India-Bangladesh Border Region
+2004-04-12T15:07:00.600Z,22.418,70.474,10,4.2,"13 km W of Paddhari, India",13 W Paddhari India
+2004-04-07T09:02:28.230Z,28.858,78.418,10,4.2,"7 km SW of Amroha, India",7 Sw Amroha India
+2004-02-23T13:34:08.640Z,33.005,78.874,46,3.7,"175 km SE of Leh, India",175 Se Leh India
+2004-02-04T18:46:58.400Z,33.947,75.149,23.8,4.1,"3 km NE of Tr?l, India",3 Ne Tral India
+2003-12-21T02:14:07.450Z,32.548,76.626,33,4.2,"37 km W of Kyelang, India",37 W Kyelang India
+2003-12-15T23:56:07.980Z,31.527,78.151,33,4.4,"33 km E of Sar?han, India",33 E Sarahan India
+2003-12-15T22:54:20.320Z,31.622,78.203,33,4.5,"40 km ENE of Sar?han, India",40 Ene Sarahan India
+2003-12-06T09:53:03.960Z,25.596,90.25,26.7,4.4,"10 km NNE of Tura, India",10 Nne Tura India
+2003-12-02T21:14:52.490Z,25.787,90.392,23.1,3.8,"28 km SSE of Lakhipur, India",28 Sse Lakhipur India
+2003-10-20T00:39:54.440Z,23.316,86.448,33,4.3,"8 km E of Puruliya, India",8 E Puruliya India
+2003-10-11T09:47:53.620Z,23.375,69.916,10,4.4,"28 km ENE of Bhuj, India",28 Ene Bhuj India
+2003-08-10T11:17:54.380Z,27.216,75.739,10,4.5,"22 km WSW of Manoharpur, India",22 Wsw Manoharpur India
+2003-06-23T12:30:54.080Z,27.79,88.168,80.3,4.2,"46 km NW of Mangan, India",46 Nw Mangan India
+2003-06-18T19:42:03.870Z,35.24,76.813,33,4.2,"34 km N of Thang, India",34 N Thang India
+2003-05-27T10:14:58.870Z,30.383,79.087,33,4.1,"14 km NE of Rudrapray?g, India",14 Ne Rudraprayag India
+2003-05-11T16:34:51.710Z,33.107,75.937,33,4.4,"24 km NE of Bhadarw?h, India",24 Ne Bhadarwah India
+2003-04-27T19:17:24.140Z,32.874,76.761,33,4.1,"41 km NW of Kyelang, India",41 Nw Kyelang India
+2003-04-16T13:54:55.790Z,33.493,76.582,33,4.4,"28 km W of Padam, India",28 W Padam India
+2003-02-11T19:27:14.670Z,23.386,70.218,10,4.5,"16 km NW of Bhach?u, India",16 Nw Bhachau India
+2003-01-19T22:57:26.600Z,23.149,70.636,10,4.1,"34 km ESE of Bhach?u, India",34 Ese Bhachau India
+2002-10-09T17:49:39.850Z,34.147,80.816,33,4.3,"298 km E of Leh, India",298 E Leh India
+2002-10-09T12:13:44.580Z,34.264,80.631,33,3.7,"280 km E of Leh, India",280 E Leh India
+2002-10-08T04:48:17.200Z,31.73,77.21,33,4.5,"15 km NW of Banj?r, India",15 Nw Banjar India
+2002-09-29T14:03:19.680Z,29.865,79.925,10,3.9,"15 km ENE of B?geshwar, India",15 Ene Bageshwar India
+2002-09-04T16:11:57.360Z,31.23,77.76,33,4.1,"3 km N of Rohru, India",3 N Rohru India
+2002-08-29T22:24:47.950Z,23.063,70.263,10,3.8,"5 km NE of K?ndla, India",5 Ne Kandla India
+2002-08-18T16:03:35.700Z,23.236,70.234,10,3.9,"13 km WSW of Bhach?u, India",13 Wsw Bhachau India
+2002-07-10T06:38:14.790Z,34.103,80.61,33,4.4,"279 km E of Leh, India",279 E Leh India
+2002-07-02T17:10:39.590Z,26.897,84.511,33,3.9,"10 km N of Bettiah, India",10 N Bettiah India
+2002-06-04T18:32:16.950Z,34.296,76.436,33,4.3,"40 km SE of Kargil, India",40 Se Kargil India
+2002-05-23T15:24:41.330Z,34.365,76.736,33,4.3,"59 km ESE of Kargil, India",59 Ese Kargil India
+2002-05-23T05:03:55.040Z,34.32,76.426,33,4.4,"38 km SE of Kargil, India",38 Se Kargil India
+2002-05-02T14:29:45.930Z,27.696,75.81,33,4.1,"5 km SSE of Neem ka Thana, India",5 Sse Neem Ka Thana India
+2002-04-24T17:08:48.110Z,23.393,70.024,10,4,"30 km N of Anj?r, India",30 N Anjar India
+2002-04-06T04:40:25.450Z,34.366,76.259,44.5,4.4,"24 km SSE of Kargil, India",24 Sse Kargil India
+2002-03-30T06:17:46.640Z,23.483,70.345,10,4.5,"20 km N of Bhach?u, India",20 N Bhachau India
+2002-03-27T22:29:34.750Z,23.579,69.983,10,4.2,"48 km NW of Bhach?u, India",48 Nw Bhachau India
+2002-03-18T04:29:16.580Z,32.948,76.213,57.7,4.3,"44 km N of Chamba, India",44 N Chamba India
+2002-03-17T12:39:16.850Z,34.221,80.723,33,4.5,"289 km E of Leh, India",289 E Leh India
+2002-03-14T18:44:05.430Z,34.243,76.297,39.6,3.9,"38 km SSE of Kargil, India",38 Sse Kargil India
+2002-03-14T18:39:55.930Z,34.232,76.451,39.7,4.2,"47 km SE of Kargil, India",47 Se Kargil India
+2002-02-02T21:24:43.110Z,34.202,80.686,33,3.6,"285 km E of Leh, India",285 E Leh India
+2002-01-27T22:22:21.520Z,31.245,74.519,43.5,4.2,"11 km NNW of Khem Karan, India",11 Nnw Khem Karan India
+2002-01-18T13:44:45.350Z,23.148,69.757,10,4.2,"14 km SE of Bhuj, India",14 Se Bhuj India
+2002-01-07T13:04:13.860Z,33.785,74.785,33,4.1,"8 km NNW of Shup?yan, India",8 Nnw Shupayan India
+2001-12-01T22:03:22.300Z,23.201,70.076,10,4.1,"10 km NNE of Anj?r, India",10 Nne Anjar India
+2001-10-20T21:42:00.490Z,33.664,76.318,78.6,4.1,"57 km WNW of Padam, India",57 Wnw Padam India
+2001-10-03T21:24:22.170Z,33.31,76.321,33,3.7,"51 km E of Kishtw?r, India",51 E Kishtwar India
+2001-10-03T00:48:02.840Z,23.207,69.973,10,3.9,"11 km NNW of Anj?r, India",11 Nnw Anjar India
+2001-09-21T02:40:37.710Z,23.468,70.075,10,4.5,"33 km NW of Bhach?u, India",33 Nw Bhachau India
+2001-09-13T10:18:58.180Z,28.851,77.22,10,4.1,"6 km WSW of Khekra, India",6 Wsw Khekra India
+2001-08-24T12:33:02.590Z,22.979,70.543,10,4.4,"33 km E of K?ndla, India",33 E Kandla India
+2001-08-09T05:56:22.860Z,30.486,79.167,39.3,4.3,"Uttaranchal, India",Uttaranchal India
+2001-08-08T23:47:14.490Z,23.211,70.642,10,4,"32 km ESE of Bhach?u, India",32 Ese Bhachau India
+2001-08-04T11:24:35.390Z,23.307,70.265,10,4.3,"8 km W of Bhach?u, India",8 W Bhachau India
+2001-08-03T04:24:20.800Z,23.53,70.026,10,4.4,"41 km NW of Bhach?u, India",41 Nw Bhachau India
+2001-08-01T06:20:06.040Z,23.6,70.405,10,4,"24 km W of R?par, India",24 W Rapar India
+2001-07-26T11:36:59.230Z,23.725,70.208,10,4.2,"47 km WNW of R?par, India",47 Wnw Rapar India
+2001-07-25T19:01:56.330Z,29.883,79.959,33,3.8,"18 km ENE of B?geshwar, India",18 Ene Bageshwar India
+2001-07-15T00:04:27.020Z,23.705,70.367,10,4.2,"32 km WNW of R?par, India",32 Wnw Rapar India
+2001-07-11T22:37:31.000Z,23.507,70.419,10,3.7,"24 km NNE of Bhach?u, India",24 Nne Bhachau India
+2001-07-04T02:15:14.350Z,23.285,70.129,10,4.1,"21 km NNE of Anj?r, India",21 Nne Anjar India
+2001-06-30T20:19:48.490Z,23.365,70.06,10,4.5,"28 km N of Anj?r, India",28 N Anjar India
+2001-06-21T14:19:19.830Z,22.93,69.553,10,4.4,"20 km WNW of Mundra, India",20 Wnw Mundra India
+2001-06-17T16:02:27.210Z,23.607,70.088,10,4.2,"42 km NW of Bhach?u, India",42 Nw Bhachau India
+2001-05-13T04:05:40.220Z,23.376,70.213,10,4.4,"15 km WNW of Bhach?u, India",15 Wnw Bhachau India
+2001-05-07T16:44:04.740Z,23.122,70.223,10,3.7,"9 km N of K?ndla, India",9 N Kandla India
+2001-05-05T16:18:37.900Z,35.205,77.685,38.2,4.3,"86 km ENE of Thang, India",86 Ene Thang India
+2001-05-04T06:26:41.750Z,34.443,74.213,33,4.3,"28 km NNW of B?ram?la, India",28 Nnw Baramala India
+2001-04-28T03:06:25.770Z,28.588,76.841,10,3.7,"13 km W of Najafgarh, India",13 W Najafgarh India
+2001-04-27T12:28:34.410Z,26.09,91.489,33,4.1,"6 km SW of Pal?sb?ri, India",6 Sw Palasbari India
+2001-04-26T09:00:23.200Z,23.52,70.548,10,4.2,"Gujarat, India",Gujarat India
+2001-04-25T18:28:52.690Z,32.713,76.798,33,3.9,"26 km NW of Kyelang, India",26 Nw Kyelang India
+2001-04-24T06:05:45.110Z,23.377,70.162,10,4.1,"20 km WNW of Bhach?u, India",20 Wnw Bhachau India
+2001-04-20T18:35:02.590Z,25.878,90.595,33,4.5,"33 km S of Go?lp?ra, India",33 S Goalpara India
+2001-04-17T11:29:52.780Z,23.045,70.521,10,4.2,"31 km E of K?ndla, India",31 E Kandla India
+2001-04-16T14:25:59.300Z,23.464,70.098,10,4.1,"31 km NW of Bhach?u, India",31 Nw Bhachau India
+2001-04-12T17:24:27.550Z,23.773,70.75,10,4.1,"24 km NNE of R?par, India",24 Nne Rapar India
+2001-04-08T18:35:49.160Z,27.341,88.087,33,3.8,"17 km WNW of Gyalshing, India",17 Wnw Gyalshing India
+2001-03-24T14:39:11.500Z,33.443,76.126,33,3.4,"36 km ENE of Kishtw?r, India",36 Ene Kishtwar India
+2001-03-14T23:49:04.990Z,22.587,69.846,10,4,"17 km N of Sikka, India",17 N Sikka India
+2001-03-14T10:42:08.380Z,23.383,70.329,28.8,4.5,"9 km N of Bhach?u, India",9 N Bhachau India
+2001-03-13T12:05:44.070Z,23.5,70.128,10,3.7,"31 km NW of Bhach?u, India",31 Nw Bhachau India
+2001-03-12T11:34:18.010Z,30.406,79.022,33,4.5,"13 km NNE of Rudrapray?g, India",13 Nne Rudraprayag India
+2001-03-11T12:38:28.550Z,23.603,69.847,10,4,"42 km NNE of Bhuj, India",42 Nne Bhuj India
+2001-03-09T12:40:54.310Z,23.622,70.072,10,4.2,"45 km NW of Bhach?u, India",45 Nw Bhachau India
+2001-03-08T02:56:17.970Z,23.483,70.172,10,4.4,"26 km NW of Bhach?u, India",26 Nw Bhachau India
+2001-03-02T21:56:47.740Z,23.391,70.232,10,4.4,"15 km NW of Bhach?u, India",15 Nw Bhachau India
+2001-03-01T15:51:17.330Z,23.279,70.465,10,4.3,"12 km E of Bhach?u, India",12 E Bhachau India
+2001-03-01T00:53:16.060Z,23.236,70.276,10,4.5,"9 km SW of Bhach?u, India",9 Sw Bhachau India
+2001-02-28T14:33:39.090Z,23.283,70.285,27.6,4.3,"6 km WSW of Bhach?u, India",6 Wsw Bhachau India
+2001-02-28T02:41:47.500Z,28.629,76.04,33,3.8,"20 km SSW of Bhiw?ni, India",20 Ssw Bhiwani India
+2001-02-23T22:54:32.560Z,30.998,78.066,21.2,4.5,"24 km NNW of Barkot, India",24 Nnw Barkot India
+2001-02-20T08:42:09.800Z,30.983,78.235,33,3.8,"19 km N of Barkot, India",19 N Barkot India
+2001-02-19T15:05:58.190Z,23.473,70.581,10,4.1,"12 km SSW of R?par, India",12 Ssw Rapar India
+2001-02-19T09:21:58.590Z,23.523,70.102,10,4.2,"34 km NW of Bhach?u, India",34 Nw Bhachau India
+2001-02-15T07:22:47.700Z,23.232,70.229,10,4,"13 km WSW of Bhach?u, India",13 Wsw Bhachau India
+2001-02-11T23:39:41.380Z,23.342,70.301,10,3.8,"6 km NW of Bhach?u, India",6 Nw Bhachau India
+2001-02-11T15:29:39.050Z,23.274,70.311,10,4.5,"4 km SW of Bhach?u, India",4 Sw Bhachau India
+2001-02-11T10:48:32.220Z,23.273,70.177,10,3.9,"17 km W of Bhach?u, India",17 W Bhachau India
+2001-02-10T05:37:32.450Z,23.572,70.434,10,3.8,"21 km W of R?par, India",21 W Rapar India
+2001-02-09T13:24:52.450Z,34.054,79.626,33,4.2,"188 km E of Leh, India",188 E Leh India
+2001-02-08T09:33:08.770Z,23.338,70.459,10,4.3,"12 km ENE of Bhach?u, India",12 Ene Bhachau India
+2001-02-08T03:25:54.140Z,23.357,70.293,10,4.4,"8 km NW of Bhach?u, India",8 Nw Bhachau India
+2001-02-04T17:23:13.720Z,23.351,70.307,10,4.4,"6 km NNW of Bhach?u, India",6 Nnw Bhachau India
+2001-02-04T15:34:06.300Z,23.465,70.107,10,4.4,"30 km NW of Bhach?u, India",30 Nw Bhachau India
+2001-02-04T04:50:33.980Z,23.248,70.092,10,4.1,"Gujarat, India",Gujarat India
+2001-02-04T04:47:24.350Z,23.519,70.126,10,4.5,"32 km NW of Bhach?u, India",32 Nw Bhachau India
+2001-02-03T10:06:36.900Z,23.2,70.088,10,4.5,"11 km NNE of Anj?r, India",11 Nne Anjar India
+2001-02-03T09:19:37.980Z,23.403,69.999,10,3.9,"32 km N of Anj?r, India",32 N Anjar India
+2001-02-01T22:20:48.340Z,23.197,70.204,10,4.2,"14 km NNE of G?ndh?dh?m, India",14 Nne Gandhadham India
+2001-02-01T21:06:58.080Z,23.165,70.365,10,4.1,"14 km S of Bhach?u, India",14 S Bhachau India
+2001-01-31T23:36:10.900Z,23.205,70.07,10,4.4,"11 km NNE of Anj?r, India",11 Nne Anjar India
+2001-01-31T07:32:33.100Z,23.518,70.265,10,4.4,"25 km NNW of Bhach?u, India",25 Nnw Bhachau India
+2001-01-31T04:41:07.570Z,23.392,70.01,10,4,"30 km N of Anj?r, India",30 N Anjar India
+2001-01-31T03:34:56.630Z,23.379,70.403,10,4.4,"10 km NE of Bhach?u, India",10 Ne Bhachau India
+2001-01-31T01:56:07.080Z,23.439,70.043,10,4.4,"34 km WNW of Bhach?u, India",34 Wnw Bhachau India
+2001-01-30T14:50:45.160Z,32.884,76.376,33,3.4,"43 km NNE of Chamba, India",43 Nne Chamba India
+2001-01-30T03:16:42.310Z,23.345,70.095,10,4.1,"25 km WNW of Bhach?u, India",25 Wnw Bhachau India
+2001-01-29T19:17:53.280Z,23.378,70.004,10,4.2,"29 km N of Anj?r, India",29 N Anjar India
+2001-01-29T19:14:53.590Z,23.353,70.423,10,4,"10 km NE of Bhach?u, India",10 Ne Bhachau India
+2001-01-28T23:31:07.880Z,23.507,70.006,10,3.7,"41 km NW of Bhach?u, India",41 Nw Bhachau India
+2001-01-28T19:42:18.330Z,23.401,70.001,10,4.3,"31 km N of Anj?r, India",31 N Anjar India
+2001-01-28T19:31:59.820Z,23.802,69.844,10,4,"63 km NNE of Bhuj, India",63 Nne Bhuj India
+2001-01-28T18:03:43.120Z,23.454,70.393,10,4,"17 km NNE of Bhach?u, India",17 Nne Bhachau India
+2001-01-28T10:43:36.260Z,23.186,70.036,10,3.7,"8 km N of Anj?r, India",8 N Anjar India
+2001-01-28T03:26:11.180Z,23.345,70.02,10,4.3,"25 km N of Anj?r, India",25 N Anjar India
+2001-01-28T03:18:04.730Z,23.808,70.189,10,4.2,"53 km WNW of R?par, India",53 Wnw Rapar India
+2001-01-27T03:33:36.410Z,23.338,70.587,10,4.1,"25 km E of Bhach?u, India",25 E Bhachau India
+2001-01-26T19:10:55.140Z,23.863,70.076,10,4.2,"66 km WNW of R?par, India",66 Wnw Rapar India
+2001-01-26T13:30:22.410Z,23.562,70.068,10,4.4,"40 km NW of Bhach?u, India",40 Nw Bhachau India
+2001-01-26T12:55:05.870Z,23.557,70.689,10,4.3,"4 km ESE of R?par, India",4 Ese Rapar India
+2001-01-26T06:48:49.920Z,23.7,69.599,10,4.4,"49 km N of Bhuj, India",49 N Bhuj India
+2001-01-25T00:39:19.900Z,33.837,75.766,33,4.4,"45 km ESE of Pahlg?m, India",45 Ese Pahlgam India
+2001-01-17T09:22:03.180Z,34.213,79.715,33,3.6,"196 km E of Leh, India",196 E Leh India
+2001-01-08T09:01:56.870Z,33.515,75.681,58.6,4.2,"23 km NNW of Kishtw?r, India",23 Nnw Kishtwar India

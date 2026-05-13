@@ -1,0 +1,12 @@
+# IDE configuration files
+.idea/
+
+# Python compilation files
+__pycache__/
+*.pyc
+
+# Generated image outputs
+*.png
+
+# Data files (Optional: uncomment the line below if you decide NOT to upload CSVs)
+# *.csv
